@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "stats": {
+    "english_blocks_preserved": 28630,
+    "original_chinese_blocks_preserved": 42715,
+    "image_references": 4004,
+    "articles_verified": 1587,
+    "image_files_byte_identical": 3918,
+    "csv_files_verified": 4,
+    "language_reviewed_articles": 1587
+  }
+}

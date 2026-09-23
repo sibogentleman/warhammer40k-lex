@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "stats": {
+    "unchanged_nonarticle_files": 3938,
+    "byte_identical_images_including_cover": 3918,
+    "verified_removed_source_absent_markers": 287,
+    "verified_original_space_boundaries": 1240283,
+    "articles_verified": 1587,
+    "boundaries_at_edited_characters": 17,
+    "preserved_proper_forms_checked": 6,
+    "manual_corrections": 24
+  }
+}

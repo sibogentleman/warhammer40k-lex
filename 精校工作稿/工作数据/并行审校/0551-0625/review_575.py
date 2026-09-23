@@ -1,0 +1,23 @@
+from pathlib import Path
+import json
+P=Path(__file__).resolve().parent;e=json.loads((P/'edits.json').read_text());n=json.loads((P/'notes.json').read_text())
+def p(k,t):e[f'A0575-B{k:04d}']=t
+p(2,'欧克语中的“Waaagh!”可指四种相互关联的现象。')
+p(4,'galactic map of Ork Waaaghs! in late M41 第41千年末，银河中的欧克 Waaagh!分布图')
+p(6,'Waaagh! Energy Waaagh!能量')
+p(8,'欧克聚集时，会产生一种称为“Waaagh!”或“Waaagh!能量”的灵能力场，使他们本能地认出谁“块头更大”，也就该由谁当头。灵能小子还能操纵这股能量，施展各种致命灵能。')
+p(10,'野兽战争期间，机械修会成员观察到，欧克武器似乎只有接触绿皮时，才会启动。')
+p(11,'Waaagh! as an Event 作为战争行动的 Waaagh!')
+p(13,'Waaagh!也指那种少见的时刻：欧克暂时停止内斗，联合攻击其他种族。这场行动既是大迁徙、圣战和劫掠聚会，也像挨家酒馆痛饮的狂欢，还会“顺便”灭绝几个种族。典型的 Waaagh!中，数百万渴战的欧克涌向目标，踏平沿途一切。至于打的是谁，他们根本不在乎——有仗打就行。')
+p(15,'只要不断获胜、还有敌人可打，Waaagh!的规模与声势便会持续增长。越来越多欧克听说这里在打仗，就会赶来凑热闹。因此，持续越久，聚集的欧克也越多。')
+p(16,'Waaagh! as a Group 作为联军的 Waaagh!')
+p(18,'第三种含义，是汇聚在一名战争头目麾下的庞大欧克联军。头目总是块头最大、最有威势、最能吓住同族的个体，因而有能力将各个战帮聚拢，通常就是为发动并维持前述战争行动。联军往往以头目之名命名。“野兽”的 Waaagh!曾强大到使麾下所有欧克都长得异常巨大、更加凶暴；即便一名普通的“野兽欧克”小子，也比寻常绿皮高出一大截。')
+p(20,'Waaagh!通常会在战败、头目死亡，或再无敌可打时瓦解。战帮与部落因内斗、氏族竞争而分散。不过也有例外：某些威势极强的头目能维系队伍，建立小型帝国。典型例子是查拉顿欧克帝国，在历代军阀统治下延续了数千年。')
+p(22,'本篇所述时期，最著名的 Waaagh!发起者是碎骨者·斯拉卡。他曾发动第二次、第三次阿玛吉多顿战争，以及“大 Waaagh!”。')
+p(25,'最后，“Waaagh!”也是欧克在战场上几乎共同使用的吼声。')
+p(27,'作为战吼时，声音可以拖得长短不一；写出来时，通常会增加字母“a”的数量，表示延长的吼叫。')
+p(29,'早期 Games Workshop 出版物也采用过“Waaargh!”这一拼法。')
+n.update({'A0575-B0008':'psychic field为灵能力场，原立场为错字；Weirdboy统一灵能小子，非Oddboy怪怪小子。','A0575-B0013':'pub crawl指接连出入酒馆饮酒，保留原文狂欢比喻；“顺便”保留原文黑色幽默语气，不增加现实价值判断。','A0575-B0018':'horde泛指联军，warband战帮、tribe部落不得全部合并为部落；此处联军与战争事件是两个不同词义。','A0575-B0022':'instigator为发起者，原译把人物本人说成Waaagh!；同一人物沿官译碎骨者·斯拉卡。'})
+for fn,obj in [('edits.json',e),('notes.json',n)]:(P/fn).write_text(json.dumps(obj,ensure_ascii=False,indent=2))
+rv=set(json.loads((P/'reviewed.json').read_text()))|{575};(P/'reviewed.json').write_text(json.dumps(sorted(rv)))
+print('551-575 complete')

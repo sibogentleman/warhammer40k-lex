@@ -1,0 +1,106 @@
+[
+  {
+    "id": "GW-01",
+    "title": "军队页面-中文",
+    "url": "https://warhammer40000.com/zh-hans/the-armies/",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GW-02",
+    "title": "军队页面-英文",
+    "url": "https://warhammer40000.com/the-armies/",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GW-03",
+    "title": "设定页面-中文",
+    "url": "https://warhammer40000.com/zh-hans/the-setting/",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GW-04",
+    "title": "星界军索引-中文",
+    "url": "https://assets.warhammer-community.com/warhammer40000_indexes_astramilitarum_chi_16.10.pdf",
+    "ok": true,
+    "file": "/Users/bytedance/Documents/ChatGPT/战锤 40k/精校工作稿/参考资料/GW-04-星界军索引-中文.pdf",
+    "bytes": 14499590
+  },
+  {
+    "id": "GW-05",
+    "title": "核心规则-中文",
+    "url": "https://assets.warhammer-community.com/warhammer40000_core%26key_corerules_chn_24.09-czgt3rq37v.pdf",
+    "ok": true,
+    "file": "/Users/bytedance/Documents/ChatGPT/战锤 40k/精校工作稿/参考资料/GW-05-核心规则-中文.pdf",
+    "bytes": 20459188
+  },
+  {
+    "id": "GW-06",
+    "title": "星际战士阵营包-中文",
+    "url": "https://assets.warhammer-community.com/chi_07-01_warhammer_40000_faction_pack_space_marines-ngpzngqdt2-fxbygosrpj.pdf",
+    "ok": true,
+    "file": "/Users/bytedance/Documents/ChatGPT/战锤 40k/精校工作稿/参考资料/GW-06-星际战士阵营包-中文.pdf",
+    "bytes": 16855113
+  },
+  {
+    "id": "GW-09",
+    "title": "军务部野战手册-中文",
+    "url": "https://assets.warhammer-community.com/chi_06-05_wh40k_core%26key_munitorum_field_manual-5mrlucr2t1-fkybzzzoce.pdf",
+    "ok": true,
+    "bytes": 2248128,
+    "file": "/Users/bytedance/Documents/ChatGPT/战锤 40k/精校工作稿/参考资料/GW-09-军务部野战手册-中文.pdf"
+  },
+  {
+    "id": "GW-10",
+    "title": "军务部野战手册-英文",
+    "url": "https://assets.warhammer-community.com/eng_warhammer40000_munitorum_field_manual_march_2025-cims9ya3sg-s8j9m2haae.pdf",
+    "ok": true,
+    "bytes": 2119836,
+    "file": "/Users/bytedance/Documents/ChatGPT/战锤 40k/精校工作稿/参考资料/GW-10-军务部野战手册-英文.pdf"
+  },
+  {
+    "id": "GW-11",
+    "title": "星界军索引-英文",
+    "url": "https://assets.warhammer-community.com/warhammer40000_indexes_astramilitarum_eng_16.10.pdf",
+    "ok": true,
+    "file": "/Users/bytedance/Documents/ChatGPT/战锤 40k/精校工作稿/参考资料/GW-11-星界军索引-英文.pdf",
+    "bytes": 14986826
+  },
+  {
+    "id": "GW-12",
+    "title": "Blood Angels 官方 FAQ（2014）：Glaive Encarmine 剑型与斧型",
+    "url": "https://www.blacklibrary.com/downloads/product/pdf/warhammer-40k/7th-faq/blood_angels_v1.0_may14.pdf",
+    "ok": false,
+    "check_method": "官方 PDF 搜索摘录核对武器分类；未提取全文，未核中文译名"
+  },
+  {
+    "id": "GW-13",
+    "title": "Warhammer Community：The New Year Preview – Tanks galore for the Legiones Astartes",
+    "url": "https://www.warhammer-community.com/en-gb/articles/o0vvkblo/the-new-year-preview-tanks-galore-for-the-legiones-astartes/",
+    "ok": false,
+    "check_method": "官方网页核对 Glaive 坦克类别与武器；非中文定译依据"
+  },
+  {
+    "id": "REF-01",
+    "title": "Lexicanum：Glaive",
+    "url": "https://wh40k.lexicanum.com/wiki/Glaive",
+    "ok": false,
+    "check_method": "第三方资料核对 Glaive／Fellglaive 英文异名与舰船同名分义；非官方中文依据"
+  },
+  {
+    "id": "REF-02",
+    "title": "Lexicanum：Krz’at’tchal",
+    "url": "https://wh40k.lexicanum.com/wiki/Krz%27at%27tchal",
+    "ok": false,
+    "check_method": "第三方条目核对该恶魔武器为火焰喷射器，其内封印奸奇火妖；不将二者同形词混淆。"
+  },
+  {
+    "id": "REF-03",
+    "title": "Lexicanum：《The Fury of Magnus》人物表",
+    "url": "https://wh40k.lexicanum.com/wiki/The_Fury_of_Magnus_%28Novella%29",
+    "ok": false,
+    "check_method": "第三方资料复核Draaksward拼写及三名火蜥蜴护卫身份；中文沿本稿暂定名，未标为官译。"
+  }
+]

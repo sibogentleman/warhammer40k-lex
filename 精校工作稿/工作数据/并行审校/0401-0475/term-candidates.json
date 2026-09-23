@@ -1,0 +1,5902 @@
+[
+  [
+    "Crusader Squad",
+    "十字军小队",
+    "A0401-B0004"
+  ],
+  [
+    "Black Templars initiate",
+    "黑色圣堂进阶者",
+    "A0402-B0004"
+  ],
+  [
+    "Primaris Space Marine Initiate",
+    "原铸星际战士进阶者",
+    "A0402-B0009"
+  ],
+  [
+    "Unification Wars & Great Crusade",
+    "统一战争&大远征",
+    "A0403-B0052"
+  ],
+  [
+    "Formation",
+    "形成",
+    "A0403-B0053"
+  ],
+  [
+    "Unification-era IXth Legionary",
+    "统一时期第九军团军团士兵",
+    "A0403-B0057"
+  ],
+  [
+    "The Coming of Sanguinius",
+    "圣吉列斯的到来",
+    "A0403-B0066"
+  ],
+  [
+    "Great Crusade-era Blood Angels Marine",
+    "大远征时期圣血天使星际战士",
+    "A0403-B0074"
+  ],
+  [
+    "Conquest of Neptune",
+    "征服海王星",
+    "A0403-B0078"
+  ],
+  [
+    "Melchior Compliance",
+    "梅尔基奥尔征服",
+    "A0403-B0079"
+  ],
+  [
+    "Compliance of Muspel",
+    "姆斯佩尔征服",
+    "A0403-B0080"
+  ],
+  [
+    "The Praxil Compliance",
+    "普拉克西征服",
+    "A0403-B0083"
+  ],
+  [
+    "War on Murder",
+    "谋杀星之战",
+    "A0403-B0087"
+  ],
+  [
+    "The Horus Heresy",
+    "荷鲁斯之乱",
+    "A0403-B0089"
+  ],
+  [
+    "Signus Prime",
+    "西格纳斯主星",
+    "A0403-B0090"
+  ],
+  [
+    "Sanguinius and Ka'Bandha duelling in midair",
+    "圣吉列斯和卡’班哈在半空中决斗",
+    "A0403-B0102"
+  ],
+  [
+    "Siege of Terra",
+    "泰拉围城",
+    "A0403-B0112"
+  ],
+  [
+    "Hive Fleet Leviathan & Dark Imperium",
+    "利维坦虫巢舰队&黑暗帝国",
+    "A0403-B0124"
+  ],
+  [
+    "Blood Angels battle the Tyranids",
+    "圣血天使与泰伦作战",
+    "A0403-B0132"
+  ],
+  [
+    "Other Battles",
+    "其他战斗",
+    "A0403-B0133"
+  ],
+  [
+    "Timeline",
+    "时间线",
+    "A0403-B0134"
+  ],
+  [
+    "Blood Angel",
+    "圣血天使",
+    "A0403-B0165"
+  ],
+  [
+    "The Flaw",
+    "瑕疵",
+    "A0403-B0166"
+  ],
+  [
+    "Successors",
+    "子战团",
+    "A0403-B0182"
+  ],
+  [
+    "The Blood Angels battle Chaos",
+    "圣血天使与混沌作战",
+    "A0403-B0188"
+  ],
+  [
+    "Legion Organization",
+    "军团组织",
+    "A0403-B0204"
+  ],
+  [
+    "Death Company",
+    "死亡连队",
+    "A0403-B0225"
+  ],
+  [
+    "Commander Dante,Master of the Blood Angels",
+    "指挥官但丁，圣血天使之主",
+    "A0403-B0239"
+  ],
+  [
+    "Astorath the Grim,High Chaplain",
+    "冷酷者阿斯托拉斯，至高教士",
+    "A0403-B0244"
+  ],
+  [
+    "Sanguinary Priesthood",
+    "圣血祭司会",
+    "A0403-B0246"
+  ],
+  [
+    "Corbulo,Sanguinary High Priest",
+    "至高圣血祭司，科布罗",
+    "A0403-B0248"
+  ],
+  [
+    "Sanguinary Priests",
+    "圣血祭司",
+    "A0403-B0249"
+  ],
+  [
+    "Mephiston,Chief Librarian",
+    "墨菲斯顿，首席智库员",
+    "A0403-B0252"
+  ],
+  [
+    "Invictor Warsuits",
+    "不败者战术机甲",
+    "A0403-B0275"
+  ],
+  [
+    "Fleet Command",
+    "舰队指挥",
+    "A0403-B0280"
+  ],
+  [
+    "Logisticiam",
+    "后勤部",
+    "A0403-B0289"
+  ],
+  [
+    "Captain Karlaen,Shield of Baal",
+    "卡莱恩连长，巴尔之盾",
+    "A0403-B0301"
+  ],
+  [
+    "Company Ancient Varseus",
+    "连队旗手瓦尔修斯",
+    "A0403-B0304"
+  ],
+  [
+    "Company Veterans",
+    "连队老兵",
+    "A0403-B0306"
+  ],
+  [
+    "Captain Aphael,Master of the Watch",
+    "阿法尔连长，守望大师",
+    "A0403-B0313"
+  ],
+  [
+    "Captain Antargo,Master of Sacrifice",
+    "安塔尔戈连长，牺牲之主",
+    "A0403-B0325"
+  ],
+  [
+    "Captain Raphaen,Lord Adjudicator",
+    "拉斐恩连长，裁决领主",
+    "A0403-B0337"
+  ],
+  [
+    "Captain Sendini,Keeper of the Arsenal",
+    "森迪尼连长，军械守卫",
+    "A0403-B0349"
+  ],
+  [
+    "Captain Tybahlt,Caller of the Fires",
+    "提伯尔特连长，烈焰召者",
+    "A0403-B0362"
+  ],
+  [
+    "Captain Phaeton,Master of the Marches",
+    "法厄同连长，行军大师",
+    "A0403-B0372"
+  ],
+  [
+    "Captain Matarno,Lord of Skyfall",
+    "马塔诺连长，天陨领主",
+    "A0403-B0382"
+  ],
+  [
+    "Captain Latarnes,Master of Sieges",
+    "拉塔恩斯连长，攻城大师",
+    "A0403-B0392"
+  ],
+  [
+    "Captain Borgio,Master of the Recruits",
+    "波吉奥连长，新兵之主",
+    "A0403-B0403"
+  ],
+  [
+    "Company Disposition",
+    "连队布置",
+    "A0403-B0411"
+  ],
+  [
+    "The Death Company",
+    "死亡连队",
+    "A0403-B0430"
+  ],
+  [
+    "Chaplain directing his Death Company",
+    "教士指挥死亡连队",
+    "A0403-B0434"
+  ],
+  [
+    "Blood Angels Honour Guard",
+    "圣血天使荣誉卫队",
+    "A0403-B0447"
+  ],
+  [
+    "The Sanguinary Guard",
+    "圣血守卫",
+    "A0403-B0448"
+  ],
+  [
+    "Blood Angels Primaris Space Marine",
+    "圣血天使原铸星际战士",
+    "A0403-B0467"
+  ],
+  [
+    "Noted Elements of the Blood Angels",
+    "圣血天使的著名成员",
+    "A0403-B0468"
+  ],
+  [
+    "Absolution's Ire",
+    "赦免之怒号",
+    "A0403-B0473"
+  ],
+  [
+    "Baal's Fury",
+    "巴尔之怒号",
+    "A0403-B0475"
+  ],
+  [
+    "Blade of Vengeance",
+    "复仇之刃号",
+    "A0403-B0477"
+  ],
+  [
+    "Bloodcaller",
+    "唤血者号",
+    "A0403-B0479"
+  ],
+  [
+    "Covenant of Baal",
+    "巴尔盟约号",
+    "A0403-B0481"
+  ],
+  [
+    "The Crimson Spectre",
+    "深红幽灵号",
+    "A0403-B0483"
+  ],
+  [
+    "Eclipse of Hope",
+    "希望破灭号",
+    "A0403-B0485"
+  ],
+  [
+    "Eminence Sanguis",
+    "崇高之血号",
+    "A0403-B0487"
+  ],
+  [
+    "Red Tear",
+    "红泪号",
+    "A0403-B0488"
+  ],
+  [
+    "Sword of Baal",
+    "巴尔之剑号",
+    "A0403-B0490"
+  ],
+  [
+    "Relics and Artifacts",
+    "圣物和造物",
+    "A0403-B0493"
+  ],
+  [
+    "Axe Mortalis",
+    "死亡之斧",
+    "A0403-B0494"
+  ],
+  [
+    "Death Mask of Sanguinius",
+    "圣吉列斯死亡面具",
+    "A0403-B0495"
+  ],
+  [
+    "Perdition Pistol",
+    "毁灭手枪",
+    "A0403-B0496"
+  ],
+  [
+    "Red Grail",
+    "鲜血圣杯",
+    "A0403-B0497"
+  ],
+  [
+    "Shroud of Sanguinius",
+    "圣吉列斯圣骸布",
+    "A0403-B0498"
+  ],
+  [
+    "Spear of Telesto",
+    "毕功之矛",
+    "A0403-B0499"
+  ],
+  [
+    "Aircraft and Vehicles",
+    "飞行器与载具",
+    "A0403-B0500"
+  ],
+  [
+    "Sanguinius",
+    "圣吉列斯",
+    "A0403-B0503"
+  ],
+  [
+    "Astorath the Grim",
+    "冷酷者阿斯托拉斯",
+    "A0403-B0524"
+  ],
+  [
+    "Morleo Moriar",
+    "莫尔莱奥·莫里亚",
+    "A0403-B0534"
+  ],
+  [
+    "Rafen",
+    "拉芬",
+    "A0403-B0536"
+  ],
+  [
+    "Leonatos",
+    "莱昂纳托斯",
+    "A0403-B0538"
+  ],
+  [
+    "Exclusive Units and Vehicles",
+    "独特单位和载具",
+    "A0403-B0540"
+  ],
+  [
+    "Burning Eyes",
+    "燃烧之眼",
+    "A0403-B0543"
+  ],
+  [
+    "Contemptor-Incaendius Class Dreadnought",
+    "蔑视者因坎迪厄斯级无畏",
+    "A0403-B0544"
+  ],
+  [
+    "Dawnbreakers",
+    "破晓者",
+    "A0403-B0546"
+  ],
+  [
+    "Furioso Dreadnought",
+    "暴烈无畏",
+    "A0403-B0555"
+  ],
+  [
+    "Land Raider Angel Infernus",
+    "兰德掠袭者炼狱天使",
+    "A0403-B0556"
+  ],
+  [
+    "Librarian Dreadnought",
+    "智库员无畏机甲",
+    "A0403-B0557"
+  ],
+  [
+    "Quorum Empyrric",
+    "灵焰议会",
+    "A0403-B0558"
+  ],
+  [
+    "Daenor",
+    "代诺尔",
+    "A0405-B0011"
+  ],
+  [
+    "Albinus",
+    "阿尔拜努斯",
+    "A0406-B0031"
+  ],
+  [
+    "Artemos",
+    "阿特莫斯",
+    "A0406-B0032"
+  ],
+  [
+    "Mephael",
+    "梅斐尔",
+    "A0406-B0034"
+  ],
+  [
+    "Sachiel",
+    "萨基尔",
+    "A0406-B0035"
+  ],
+  [
+    "Lamentarios",
+    "拉门塔里奥斯 - 参加了冥府战役并保卫了彼岸花星球",
+    "A0406-B0038"
+  ],
+  [
+    "Caecus",
+    "凯库斯 - 首席药剂师",
+    "A0406-B0040"
+  ],
+  [
+    "Gallion",
+    "加里恩",
+    "A0406-B0042"
+  ],
+  [
+    "Estius",
+    "埃斯提乌斯",
+    "A0406-B0043"
+  ],
+  [
+    "Cleaninsing of Baal Secundus",
+    "巴尔二号清洗",
+    "A0409-B0013"
+  ],
+  [
+    "Matarno",
+    "马塔诺 - 现任连长",
+    "A0409-B0015"
+  ],
+  [
+    "Zedrenael",
+    "塞德纳尔 - 前连长",
+    "A0409-B0017"
+  ],
+  [
+    "Milonus",
+    "米洛努斯",
+    "A0409-B0019"
+  ],
+  [
+    "Carleon",
+    "卡莱昂 - 军士",
+    "A0409-B0021"
+  ],
+  [
+    "Basileus",
+    "巴西琉斯 - 突击战士军士",
+    "A0409-B0023"
+  ],
+  [
+    "Arvin",
+    "阿尔文 - 突击战士",
+    "A0409-B0025"
+  ],
+  [
+    "Giacomus",
+    "贾科默斯 - 突击战士",
+    "A0409-B0027"
+  ],
+  [
+    "Ristan",
+    "里斯坦 - 突击战士",
+    "A0409-B0029"
+  ],
+  [
+    "Dawnbreaker Cohort",
+    "破晓者大队",
+    "A0410-B0004"
+  ],
+  [
+    "Magon",
+    "马贡",
+    "A0410-B0010"
+  ],
+  [
+    "The Death Company's sigil",
+    "死亡连队标志",
+    "A0411-B0004"
+  ],
+  [
+    "Death Company warriors",
+    "死亡连队战士",
+    "A0411-B0009"
+  ],
+  [
+    "Warrior of the Death Company",
+    "死亡连队战士",
+    "A0411-B0015"
+  ],
+  [
+    "Death Company Intercessors",
+    "死亡连队仲裁者",
+    "A0411-B0019"
+  ],
+  [
+    "Death Company with Jump Packs",
+    "跳跃背包死亡连队",
+    "A0411-B0028"
+  ],
+  [
+    "Variants",
+    "变体",
+    "A0411-B0029"
+  ],
+  [
+    "Galleanus",
+    "加勒阿努斯",
+    "A0411-B0039"
+  ],
+  [
+    "Naiulus",
+    "奈勒斯",
+    "A0411-B0041"
+  ],
+  [
+    "The Burning Eyes' Symbol",
+    "燃烧之眼的标志",
+    "A0412-B0004"
+  ],
+  [
+    "Symbol of the Angel's Tears",
+    "天使之泪标志",
+    "A0413-B0004"
+  ],
+  [
+    "Angel's Tears Space Marine",
+    "天使之泪星际战士",
+    "A0413-B0011"
+  ],
+  [
+    "Alepheo",
+    "阿莱费奥",
+    "A0413-B0015"
+  ],
+  [
+    "Hanziel",
+    "汉泽尔",
+    "A0413-B0017"
+  ],
+  [
+    "Anzarael",
+    "安扎瑞尔",
+    "A0414-B0009"
+  ],
+  [
+    "Symbol of the Sanguinary Guard",
+    "圣血守卫标志",
+    "A0416-B0004"
+  ],
+  [
+    "Sanguinary Guard Squad",
+    "圣血守卫小队",
+    "A0416-B0026"
+  ],
+  [
+    "Successor Variants",
+    "子战团变体",
+    "A0416-B0027"
+  ],
+  [
+    "Sanguinary Guard of the Angels Encarmine",
+    "赤红天使圣血守卫",
+    "A0416-B0031"
+  ],
+  [
+    "Sepharan",
+    "塞弗兰 - 圣吉列斯的崇高传令官",
+    "A0416-B0033"
+  ],
+  [
+    "Caraeus",
+    "卡拉厄斯 - 圣吉列斯的崇高传令官",
+    "A0416-B0035"
+  ],
+  [
+    "Daeanatos",
+    "达阿纳托斯 - 圣吉列斯的崇高传令官",
+    "A0416-B0037"
+  ],
+  [
+    "Brother Dontoriel",
+    "唐托里尔修士",
+    "A0416-B0039"
+  ],
+  [
+    "Brother Erephon",
+    "艾瑞丰修士",
+    "A0416-B0040"
+  ],
+  [
+    "Brother Saronath",
+    "萨罗南斯修士",
+    "A0416-B0041"
+  ],
+  [
+    "Brother Varrian",
+    "瓦里安修士",
+    "A0416-B0042"
+  ],
+  [
+    "Brother Vesta",
+    "维斯塔修士",
+    "A0416-B0043"
+  ],
+  [
+    "Brother Uzarael",
+    "乌扎雷尔修士",
+    "A0416-B0044"
+  ],
+  [
+    "Brother Mataneo",
+    "马塔尼奥修士",
+    "A0416-B0045"
+  ],
+  [
+    "Taerwelt Ikasati",
+    "塔尔维特·伊卡萨蒂",
+    "A0416-B0047"
+  ],
+  [
+    "Symbol of the Crimson Paladins",
+    "猩红圣骑士标志",
+    "A0417-B0004"
+  ],
+  [
+    "Crimson Paladin Squad",
+    "猩红圣骑士小队",
+    "A0417-B0009"
+  ],
+  [
+    "Barbiel",
+    "巴比尔",
+    "A0417-B0015"
+  ],
+  [
+    "Hamonah",
+    "哈摩那",
+    "A0417-B0017"
+  ],
+  [
+    "Bel Sepatus",
+    "贝尔·塞帕图斯",
+    "A0417-B0019"
+  ],
+  [
+    "Menthir",
+    "门西尔",
+    "A0417-B0020"
+  ],
+  [
+    "Space Marine of the Flesh Tearers",
+    "撕肉者星际战士",
+    "A0418-B0028"
+  ],
+  [
+    "Recent History",
+    "近期历史",
+    "A0418-B0039"
+  ],
+  [
+    "Dates Unknown",
+    "日期未知",
+    "A0418-B0076"
+  ],
+  [
+    "Flesh Tearers Terminator",
+    "撕肉者终结者",
+    "A0418-B0087"
+  ],
+  [
+    "Flesh Tearers Firstborn",
+    "撕肉者长子",
+    "A0418-B0117"
+  ],
+  [
+    "Blood Mantle",
+    "鲜血斗篷 - 披风 - 战团长穿戴",
+    "A0418-B0120"
+  ],
+  [
+    "Blood Reaver",
+    "鲜血收割者 - 链锯武器 - 加百列·赛斯挥舞",
+    "A0418-B0122"
+  ],
+  [
+    "Bones of Baelsor",
+    "贝尔索尔之骨",
+    "A0418-B0124"
+  ],
+  [
+    "Crimson Plate",
+    "深红板甲",
+    "A0418-B0126"
+  ],
+  [
+    "Halo of Thorns",
+    "荆棘光环 - 铁光环 - 战团长佩戴",
+    "A0418-B0128"
+  ],
+  [
+    "Severer of Threads",
+    "断线者 - 链锯剑",
+    "A0418-B0130"
+  ],
+  [
+    "Shield of Cretacia",
+    "科瑞塔西亚之盾 - 动力盔甲",
+    "A0418-B0132"
+  ],
+  [
+    "Slayer's Wrath",
+    "屠杀者之怒 - 爆矢枪",
+    "A0418-B0134"
+  ],
+  [
+    "Sorrow's Genesis",
+    "悲伤起源 - 医疗套件",
+    "A0418-B0136"
+  ],
+  [
+    "Bleeding Fist",
+    "流血之拳号",
+    "A0418-B0144"
+  ],
+  [
+    "Cretacian Justice",
+    "科瑞塔西亚的正义号",
+    "A0418-B0146"
+  ],
+  [
+    "Death's Cowl",
+    "死亡之罩号",
+    "A0418-B0148"
+  ],
+  [
+    "Jagged Blade",
+    "锯齿之刃号",
+    "A0418-B0150"
+  ],
+  [
+    "Mortis Wrath",
+    "死亡之怒号",
+    "A0418-B0152"
+  ],
+  [
+    "Butcher",
+    "屠夫号",
+    "A0418-B0156"
+  ],
+  [
+    "Merciless",
+    "无情号",
+    "A0418-B0158"
+  ],
+  [
+    "Barbed Angel",
+    "带刺天使号",
+    "A0418-B0166"
+  ],
+  [
+    "Blood Drinker",
+    "饮血者号",
+    "A0418-B0168"
+  ],
+  [
+    "Razor's Edge",
+    "剃刀边缘号",
+    "A0418-B0172"
+  ],
+  [
+    "Serrated Angel",
+    "锯齿天使号",
+    "A0418-B0174"
+  ],
+  [
+    "Spear of Sanguinius",
+    "圣吉列斯之矛号",
+    "A0418-B0176"
+  ],
+  [
+    "Vengeance",
+    "复仇号",
+    "A0418-B0178"
+  ],
+  [
+    "Other Known Vehicles",
+    "其他著名载具",
+    "A0418-B0182"
+  ],
+  [
+    "Incendia",
+    "燃烧号",
+    "A0418-B0183"
+  ],
+  [
+    "Harahel",
+    "哈拉赫尔 - 战团冠军",
+    "A0418-B0191"
+  ],
+  [
+    "Chaplaincy",
+    "教士团",
+    "A0418-B0193"
+  ],
+  [
+    "Carnarvon",
+    "卡纳文",
+    "A0418-B0194"
+  ],
+  [
+    "Appollus",
+    "阿波鲁斯",
+    "A0418-B0196"
+  ],
+  [
+    "Zuphias",
+    "祖菲亚斯",
+    "A0418-B0198"
+  ],
+  [
+    "Abigor",
+    "亚必戈",
+    "A0418-B0205"
+  ],
+  [
+    "Jarrod",
+    "杰拉德",
+    "A0418-B0207"
+  ],
+  [
+    "Belthiel",
+    "贝尔提尔",
+    "A0418-B0209"
+  ],
+  [
+    "Thuriel",
+    "图里尔",
+    "A0418-B0214"
+  ],
+  [
+    "Barachiel",
+    "巴比勒",
+    "A0418-B0216"
+  ],
+  [
+    "Dreadnoughts",
+    "无畏机甲",
+    "A0418-B0218"
+  ],
+  [
+    "Baelsor",
+    "贝尔索尔",
+    "A0418-B0219"
+  ],
+  [
+    "Skoraen",
+    "斯考伦",
+    "A0418-B0220"
+  ],
+  [
+    "Captains",
+    "连长",
+    "A0418-B0221"
+  ],
+  [
+    "Akrasiel",
+    "阿克拉塞尔",
+    "A0418-B0222"
+  ],
+  [
+    "Cain Severan",
+    "该隐·塞弗伦 - 第三连队",
+    "A0418-B0223"
+  ],
+  [
+    "Corphal Antraeon",
+    "科法尔·安特雷昂",
+    "A0418-B0225"
+  ],
+  [
+    "Crassun",
+    "克拉森",
+    "A0418-B0226"
+  ],
+  [
+    "Gorn",
+    "戈恩",
+    "A0418-B0227"
+  ],
+  [
+    "Guriel",
+    "古列尔",
+    "A0418-B0229"
+  ],
+  [
+    "Kamien",
+    "卡米恩",
+    "A0418-B0231"
+  ],
+  [
+    "Krael",
+    "克雷尔",
+    "A0418-B0232"
+  ],
+  [
+    "Toivo",
+    "托伊沃",
+    "A0418-B0235"
+  ],
+  [
+    "Sergeants",
+    "军士",
+    "A0418-B0237"
+  ],
+  [
+    "Orscari",
+    "奥斯卡里",
+    "A0418-B0238"
+  ],
+  [
+    "Noxx",
+    "诺克斯",
+    "A0418-B0239"
+  ],
+  [
+    "Other",
+    "其他",
+    "A0418-B0241"
+  ],
+  [
+    "Crull",
+    "克鲁尔",
+    "A0418-B0242"
+  ],
+  [
+    "Luca Thalassi",
+    "卢卡·塔拉西",
+    "A0418-B0244"
+  ],
+  [
+    "Zarrael",
+    "扎雷尔",
+    "A0418-B0246"
+  ],
+  [
+    "Krayth",
+    "克雷思",
+    "A0418-B0248"
+  ],
+  [
+    "Strike Force Seth",
+    "赛斯打击部队",
+    "A0418-B0251"
+  ],
+  [
+    "Background",
+    "背景故事",
+    "A0419-B0018"
+  ],
+  [
+    "Rogue Trader-era Blood Drinkers Marine",
+    "行商浪人时期的饮血者战士",
+    "A0419-B0030"
+  ],
+  [
+    "Caedis",
+    "凯迪斯",
+    "A0419-B0056"
+  ],
+  [
+    "Mazrael",
+    "玛兹瑞尔",
+    "A0419-B0058"
+  ],
+  [
+    "Guinian",
+    "圭尼亚",
+    "A0419-B0060"
+  ],
+  [
+    "Teale",
+    "蒂尔",
+    "A0419-B0062"
+  ],
+  [
+    "Orloc",
+    "奥洛克",
+    "A0419-B0064"
+  ],
+  [
+    "Carnifus",
+    "卡尼弗斯",
+    "A0419-B0066"
+  ],
+  [
+    "Lucien Gallani",
+    "卢西恩·加拉尼",
+    "A0419-B0070"
+  ],
+  [
+    "Kroff Tezla",
+    "克罗夫·特兹拉",
+    "A0419-B0072"
+  ],
+  [
+    "Relics",
+    "圣物",
+    "A0419-B0074"
+  ],
+  [
+    "The Calix Cruentes",
+    "血腥圣杯",
+    "A0419-B0075"
+  ],
+  [
+    "Golance War",
+    "戈兰斯战争",
+    "A0420-B0017"
+  ],
+  [
+    "Isiah",
+    "伊塞亚 - 指挥官",
+    "A0420-B0026"
+  ],
+  [
+    "Scaraban",
+    "斯卡拉班",
+    "A0420-B0028"
+  ],
+  [
+    "Star Dragons (speculated)",
+    "星龙（推测）",
+    "A0421-B0031"
+  ],
+  [
+    "Steel Confessors (speculated)",
+    "钢铁神父（推测）",
+    "A0421-B0032"
+  ],
+  [
+    "Great Crusade-era Medusan Immortal",
+    "大远征时期美杜莎不朽者",
+    "A0421-B0041"
+  ],
+  [
+    "Great Crusade-era Iron Hand",
+    "大远征时期钢铁之手",
+    "A0421-B0048"
+  ],
+  [
+    "Major Battles and Campaigns",
+    "主要战斗和战役",
+    "A0421-B0069"
+  ],
+  [
+    "The Nachmund Rift War",
+    "纳克蒙德裂隙战争",
+    "A0421-B0089"
+  ],
+  [
+    "The Arks of Omen Campaign",
+    "噩兆方舟战役",
+    "A0421-B0090"
+  ],
+  [
+    "Beliefs and Reputation",
+    "信仰与声誉",
+    "A0421-B0092"
+  ],
+  [
+    "Iron Hands Battling Dark Eldar",
+    "钢铁之手与黑暗灵族战斗",
+    "A0421-B0096"
+  ],
+  [
+    "Possible Tech-Heresy",
+    "可能的技术异端",
+    "A0421-B0107"
+  ],
+  [
+    "Strategy and Tactics",
+    "战略与战术",
+    "A0421-B0110"
+  ],
+  [
+    "The Great Clan Council",
+    "大氏族议会",
+    "A0421-B0137"
+  ],
+  [
+    "Clan Companies",
+    "氏族连队",
+    "A0421-B0142"
+  ],
+  [
+    "Iron Fathers",
+    "钢铁圣父",
+    "A0421-B0160"
+  ],
+  [
+    "Helfathers",
+    "冥父",
+    "A0421-B0161"
+  ],
+  [
+    "Venerable Dreadnoughts",
+    "神圣无畏机甲",
+    "A0421-B0162"
+  ],
+  [
+    "Anaar Telech,Chief Apothecary",
+    "阿纳尔·特莱奇，首席药剂师",
+    "A0421-B0165"
+  ],
+  [
+    "Apothecaries",
+    "药剂师",
+    "A0421-B0166"
+  ],
+  [
+    "Lydriik,Chief Librarian",
+    "林德里克，首席智库员",
+    "A0421-B0169"
+  ],
+  [
+    "Epistolaries",
+    "星语官",
+    "A0421-B0170"
+  ],
+  [
+    "Codiciers",
+    "典记员",
+    "A0421-B0171"
+  ],
+  [
+    "Lexicaniums",
+    "编修员",
+    "A0421-B0172"
+  ],
+  [
+    "Ranek Varth,Father of Iron",
+    "拉内克·瓦斯，钢铁圣父",
+    "A0421-B0176"
+  ],
+  [
+    "Reclusiarch Raastus Korphaal",
+    "隐修长拉斯图斯·科尔法尔",
+    "A0421-B0177"
+  ],
+  [
+    "Clan Avernii",
+    "阿维尼氏族",
+    "A0421-B0183"
+  ],
+  [
+    "Caanok Var,Iron Captain",
+    "卡诺克·瓦尔，钢铁连长",
+    "A0421-B0185"
+  ],
+  [
+    "Lieutenants",
+    "副官",
+    "A0421-B0186"
+  ],
+  [
+    "Techmarines",
+    "科技战士",
+    "A0421-B0192"
+  ],
+  [
+    "Transports",
+    "运输车",
+    "A0421-B0193"
+  ],
+  [
+    "Battle Tanks",
+    "战斗坦克",
+    "A0421-B0194"
+  ],
+  [
+    "Aircraft",
+    "飞行器",
+    "A0421-B0195"
+  ],
+  [
+    "Warships",
+    "战舰",
+    "A0421-B0196"
+  ],
+  [
+    "Clan Garrsak",
+    "格拉萨克氏族",
+    "A0421-B0201"
+  ],
+  [
+    "Eutuun Hes,Iron Captain",
+    "欧图恩·赫斯，钢铁连长",
+    "A0421-B0203"
+  ],
+  [
+    "Bikes",
+    "摩托",
+    "A0421-B0211"
+  ],
+  [
+    "Klaarc Kalag,Iron Captain",
+    "克拉尔克·卡拉格，钢铁连长",
+    "A0421-B0224"
+  ],
+  [
+    "Clan Kaargul",
+    "卡尔古氏族",
+    "A0421-B0243"
+  ],
+  [
+    "Brask,Iron Captain",
+    "巴斯克，钢铁连长",
+    "A0421-B0245"
+  ],
+  [
+    "Hastiim Haarmek,Iron Captain",
+    "哈斯蒂姆·哈梅克，钢铁连长",
+    "A0421-B0266"
+  ],
+  [
+    "Clan Sorrgol",
+    "索古罗氏族",
+    "A0421-B0286"
+  ],
+  [
+    "Kaldabane Vhor,Iron Captain",
+    "卡尔达班·沃霍尔，钢铁连长",
+    "A0421-B0288"
+  ],
+  [
+    "Clan Borrgos",
+    "博古斯氏族",
+    "A0421-B0305"
+  ],
+  [
+    "Dourr Raan,Iron Captain",
+    "杜尔·拉安，钢铁连长",
+    "A0421-B0307"
+  ],
+  [
+    "Clan Morlaag",
+    "莫拉格氏族",
+    "A0421-B0324"
+  ],
+  [
+    "Doroor Hesh,Iron Captain",
+    "多罗尔·赫什，钢铁连长",
+    "A0421-B0326"
+  ],
+  [
+    "Clan Vurgaan",
+    "沃尔甘氏族",
+    "A0421-B0343"
+  ],
+  [
+    "Agaar Verrox,Iron Captain",
+    "阿加尔·维罗克斯，钢铁连长",
+    "A0421-B0345"
+  ],
+  [
+    "Taahg Telavech,Iron Captain",
+    "塔赫格·泰拉维奇，钢铁连长",
+    "A0421-B0365"
+  ],
+  [
+    "Scout Squads",
+    "侦察小队",
+    "A0421-B0371"
+  ],
+  [
+    "Clan Atraxii",
+    "阿特拉克西氏族",
+    "A0421-B0379"
+  ],
+  [
+    "Clan Ayreas",
+    "艾瑞亚斯氏族",
+    "A0421-B0380"
+  ],
+  [
+    "Clan Brannsar",
+    "布兰萨氏族",
+    "A0421-B0381"
+  ],
+  [
+    "Clan Burkhar",
+    "布尔卡氏族",
+    "A0421-B0382"
+  ],
+  [
+    "Clan Felg",
+    "菲戈氏族",
+    "A0421-B0383"
+  ],
+  [
+    "Clan Kadoran",
+    "卡多兰氏族",
+    "A0421-B0384"
+  ],
+  [
+    "Clan Lokopt",
+    "洛科普特氏族",
+    "A0421-B0385"
+  ],
+  [
+    "Clan Ungavarr",
+    "昂加瓦尔氏族",
+    "A0421-B0387"
+  ],
+  [
+    "Clan Vorganan",
+    "沃甘纳氏族",
+    "A0421-B0388"
+  ],
+  [
+    "Terminator Armour equipped Iron Hands Marine",
+    "身穿终结者护甲的钢铁之手战士",
+    "A0421-B0393"
+  ],
+  [
+    "Terminators and Veteran Sergeants",
+    "终结者和老兵军士",
+    "A0421-B0394"
+  ],
+  [
+    "Iron Hands battling Eldar",
+    "钢铁之手与灵族战斗",
+    "A0421-B0401"
+  ],
+  [
+    "Iron Hands Primaris Space Marine",
+    "钢铁之手原铸星际战士",
+    "A0421-B0405"
+  ],
+  [
+    "Noted Elements of the Iron Hands",
+    "钢铁之手的著名人物与事物",
+    "A0421-B0406"
+  ],
+  [
+    "Axe of Severance",
+    "切断之斧",
+    "A0421-B0409"
+  ],
+  [
+    "Heart of Iron",
+    "钢铁之心",
+    "A0421-B0412"
+  ],
+  [
+    "Skull of Ferrus Manus",
+    "费鲁斯·马努斯之颅",
+    "A0421-B0413"
+  ],
+  [
+    "Fist of Iron",
+    "钢铁之拳号",
+    "A0421-B0415"
+  ],
+  [
+    "Red Talon",
+    "红爪号",
+    "A0421-B0417"
+  ],
+  [
+    "Iron Heart",
+    "钢铁之心号",
+    "A0421-B0418"
+  ],
+  [
+    "Sisypheum",
+    "西西弗姆号",
+    "A0421-B0419"
+  ],
+  [
+    "Veritas Ferrum",
+    "钢铁真理号",
+    "A0421-B0420"
+  ],
+  [
+    "Weyland",
+    "威兰德号 - 沃尔甘氏族的陆地巨兽",
+    "A0421-B0422"
+  ],
+  [
+    "Cestus",
+    "塞斯图斯号 - 兰德掠袭者",
+    "A0421-B0424"
+  ],
+  [
+    "Myrmex",
+    "蚁号 - 兰德掠袭者",
+    "A0421-B0426"
+  ],
+  [
+    "Metallus Gravus",
+    "沉重金属号 - 兰德掠袭者",
+    "A0421-B0428"
+  ],
+  [
+    "Ulrach Branthan",
+    "乌尔拉赫·布兰坦",
+    "A0421-B0442"
+  ],
+  [
+    "Thamatica",
+    "塔玛提卡 - 钢铁圣父",
+    "A0421-B0446"
+  ],
+  [
+    "Kardozia",
+    "卡多佐",
+    "A0421-B0448"
+  ],
+  [
+    "Post Heresy",
+    "叛乱后",
+    "A0421-B0454"
+  ],
+  [
+    "Feirros",
+    "费洛斯",
+    "A0421-B0457"
+  ],
+  [
+    "Xerill",
+    "薛瑞尔 - 死亡守望铸造大师",
+    "A0421-B0459"
+  ],
+  [
+    "Anatolus Gdolkin",
+    "阿纳托尔斯·格多尔金 - 钢铁圣父",
+    "A0421-B0461"
+  ],
+  [
+    "Arnok Kraan",
+    "阿诺克·克莱恩 - 钢铁圣父",
+    "A0421-B0463"
+  ],
+  [
+    "Caanok Var",
+    "卡诺克·瓦尔 - 阿维尼氏族钢铁连长",
+    "A0421-B0465"
+  ],
+  [
+    "Ennox Sorrlock",
+    "恩诺克斯·索洛克 - 死亡守望成员",
+    "A0421-B0467"
+  ],
+  [
+    "Oros Telemar",
+    "奥罗斯·特莱马尔 - 氏族冠军",
+    "A0421-B0469"
+  ],
+  [
+    "Unique Troops",
+    "独特部队",
+    "A0421-B0471"
+  ],
+  [
+    "Morlocks",
+    "莫洛克",
+    "A0421-B0475"
+  ],
+  [
+    "Land Behemoths",
+    "陆地巨兽",
+    "A0421-B0481"
+  ],
+  [
+    "Notes on Hierarchy",
+    "阶层体系说明",
+    "A0421-B0483"
+  ],
+  [
+    "Symbol of Clan Avernii",
+    "阿维尼氏族标志",
+    "A0422-B0004"
+  ],
+  [
+    "Vaakal Desaan",
+    "瓦卡尔·德萨安 - 第九连队的连长（叛乱时期）",
+    "A0422-B0015"
+  ],
+  [
+    "Vermanus Cybus",
+    "威尔马努斯·赛布斯 - 叛乱时期",
+    "A0422-B0019"
+  ],
+  [
+    "Morn",
+    "莫恩",
+    "A0422-B0023"
+  ],
+  [
+    "Mazos Dhule",
+    "马佐斯·杜勒",
+    "A0423-B0004"
+  ],
+  [
+    "Vaylund Cal",
+    "维兰德·卡尔",
+    "A0423-B0005"
+  ],
+  [
+    "Iron Hands Iron Father",
+    "钢铁之手钢铁圣父",
+    "A0424-B0004"
+  ],
+  [
+    "Diederik",
+    "迪德里克",
+    "A0424-B0021"
+  ],
+  [
+    "Kastigan Ulok",
+    "卡斯蒂甘·乌洛克",
+    "A0424-B0026"
+  ],
+  [
+    "Venbrass",
+    "文布拉斯",
+    "A0424-B0028"
+  ],
+  [
+    "Vilgus Darrak",
+    "维尔格斯·达拉克",
+    "A0424-B0029"
+  ],
+  [
+    "Bassan Terak",
+    "巴桑·特拉克 - 红爪",
+    "A0424-B0036"
+  ],
+  [
+    "Daarmos",
+    "达尔莫斯",
+    "A0424-B0038"
+  ],
+  [
+    "Gdolkin",
+    "格多尔金",
+    "A0424-B0042"
+  ],
+  [
+    "Graevaar",
+    "格雷瓦尔",
+    "A0424-B0043"
+  ],
+  [
+    "Grolvoch",
+    "格罗尔沃奇",
+    "A0424-B0044"
+  ],
+  [
+    "Hervel Khatir",
+    "赫维尔·克哈提尔",
+    "A0424-B0045"
+  ],
+  [
+    "Jorgirr Shidd",
+    "乔吉尔·希德",
+    "A0424-B0046"
+  ],
+  [
+    "Jurkim Bohr",
+    "朱尔奇姆·波尔 - 黄铜之爪",
+    "A0424-B0047"
+  ],
+  [
+    "Karrdas",
+    "卡尔达斯",
+    "A0424-B0050"
+  ],
+  [
+    "Kristos",
+    "克里斯托斯",
+    "A0424-B0051"
+  ],
+  [
+    "Lydriik",
+    "林德里克",
+    "A0424-B0052"
+  ],
+  [
+    "Marrus",
+    "马鲁斯",
+    "A0424-B0053"
+  ],
+  [
+    "Menestus",
+    "梅内斯图斯",
+    "A0424-B0054"
+  ],
+  [
+    "Paullian Blantar",
+    "保利安·布兰塔尔",
+    "A0424-B0057"
+  ],
+  [
+    "Rathkugan",
+    "拉斯库甘",
+    "A0424-B0058"
+  ],
+  [
+    "Sarlock",
+    "萨洛克",
+    "A0424-B0059"
+  ],
+  [
+    "Setol Sollex",
+    "赛托尔·索勒斯 - 美杜莎之子",
+    "A0424-B0060"
+  ],
+  [
+    "Shulgaar",
+    "舒尔加尔",
+    "A0424-B0062"
+  ],
+  [
+    "Verrox",
+    "维罗克斯",
+    "A0424-B0063"
+  ],
+  [
+    "Morlock",
+    "莫洛克",
+    "A0425-B0004"
+  ],
+  [
+    "Medusan Immortal",
+    "美杜莎不朽者",
+    "A0426-B0004"
+  ],
+  [
+    "Founding of the Steel Confessors",
+    "钢铁神父的建军",
+    "A0427-B0045"
+  ],
+  [
+    "The Fall of Kracsis IV",
+    "克拉西斯四号的陷落",
+    "A0427-B0052"
+  ],
+  [
+    "The Omnissiah",
+    "万机神",
+    "A0427-B0091"
+  ],
+  [
+    "The Emperor",
+    "帝皇",
+    "A0427-B0093"
+  ],
+  [
+    "The Primarch Ferrus Manus",
+    "原体费鲁斯·马努斯",
+    "A0427-B0095"
+  ],
+  [
+    "Geneseed",
+    "基因种子",
+    "A0427-B0103"
+  ],
+  [
+    "Heraldry",
+    "纹章",
+    "A0427-B0106"
+  ],
+  [
+    "Steel Confessors Tactical Marine mannequin",
+    "钢铁神父战术战士人体模型",
+    "A0427-B0120"
+  ],
+  [
+    "Steel Confessors Terminator mannequin",
+    "钢铁神父终结者人体模型",
+    "A0427-B0122"
+  ],
+  [
+    "Early History",
+    "早期历史",
+    "A0428-B0062"
+  ],
+  [
+    "Great Crusade and Heresy-era Ultramarine",
+    "大远征和叛乱时期极限战士",
+    "A0428-B0066"
+  ],
+  [
+    "The Youth of Roboute Guilliman",
+    "罗保特·基里曼的少年时代",
+    "A0428-B0069"
+  ],
+  [
+    "The Arrival of the Emperor",
+    "帝皇的到来",
+    "A0428-B0078"
+  ],
+  [
+    "The Great Crusade",
+    "大远征",
+    "A0428-B0083"
+  ],
+  [
+    "Battle of Calth",
+    "考斯之战",
+    "A0428-B0095"
+  ],
+  [
+    "Ultramarines during the Battle of Calth",
+    "考斯之战期间的极限战士",
+    "A0428-B0099"
+  ],
+  [
+    "The Great Scouring",
+    "大清洗",
+    "A0428-B0107"
+  ],
+  [
+    "Creation of the Codex Astartes",
+    "阿斯塔特圣典的创建",
+    "A0428-B0110"
+  ],
+  [
+    "Duel on Eskrador",
+    "埃斯卡多决斗",
+    "A0428-B0115"
+  ],
+  [
+    "The Bitter War",
+    "苦涩战争",
+    "A0428-B0118"
+  ],
+  [
+    "The Iron Cage",
+    "铁笼",
+    "A0428-B0121"
+  ],
+  [
+    "Post-Heresy Ultramarines Tactical Squad",
+    "叛乱后极限战士战术小队",
+    "A0428-B0125"
+  ],
+  [
+    "Thessala",
+    "色萨拉",
+    "A0428-B0130"
+  ],
+  [
+    "Recent Events",
+    "近期事件",
+    "A0428-B0133"
+  ],
+  [
+    "Successor Chapters",
+    "子战团",
+    "A0428-B0195"
+  ],
+  [
+    "The Ultramarines Chapter",
+    "极限战士战团",
+    "A0428-B0205"
+  ],
+  [
+    "Home Sector",
+    "家园星区",
+    "A0428-B0216"
+  ],
+  [
+    "The realm of Ultramar",
+    "奥特拉玛领域",
+    "A0428-B0220"
+  ],
+  [
+    "The \"Three Planets",
+    "三星",
+    "A0428-B0241"
+  ],
+  [
+    "Primarch of the Ultramarines",
+    "极限战士原体",
+    "A0428-B0275"
+  ],
+  [
+    "Lord Macragge",
+    "马库拉格领主",
+    "A0428-B0278"
+  ],
+  [
+    "Master of the Ultramarines",
+    "极限战士之主",
+    "A0428-B0279"
+  ],
+  [
+    "Equerries and Servitors",
+    "侍从官与机仆",
+    "A0428-B0285"
+  ],
+  [
+    "Servitors",
+    "机仆",
+    "A0428-B0291"
+  ],
+  [
+    "Transport Vehicles",
+    "运输载具",
+    "A0428-B0293"
+  ],
+  [
+    "Gunships",
+    "炮艇",
+    "A0428-B0294"
+  ],
+  [
+    "Centurion Warsuits",
+    "百夫长战服",
+    "A0428-B0295"
+  ],
+  [
+    "Lexicania",
+    "编修员",
+    "A0428-B0318"
+  ],
+  [
+    "Acolyta",
+    "侍僧",
+    "A0428-B0319"
+  ],
+  [
+    "Chaplains",
+    "教士",
+    "A0428-B0326"
+  ],
+  [
+    "Judiciars",
+    "裁决者",
+    "A0428-B0327"
+  ],
+  [
+    "First Captain Severus Agemman",
+    "第一连长西弗勒斯·阿格曼",
+    "A0428-B0335"
+  ],
+  [
+    "Captain Demetrian Titus",
+    "连长德米特里安·泰图斯",
+    "A0428-B0349"
+  ],
+  [
+    "Company Ancient Vandius",
+    "连队旗手凡迪乌斯",
+    "A0428-B0352"
+  ],
+  [
+    "Captain Mikael Fabian",
+    "米凯尔·法比安连长",
+    "A0428-B0363"
+  ],
+  [
+    "Company Champion Torius",
+    "连队冠军托瑞斯",
+    "A0428-B0367"
+  ],
+  [
+    "Garus",
+    "加鲁斯",
+    "A0428-B0373"
+  ],
+  [
+    "Captain Uriel Ventris",
+    "乌瑞尔·文崔斯连长",
+    "A0428-B0378"
+  ],
+  [
+    "Captain Phelian",
+    "费利安连长",
+    "A0428-B0391"
+  ],
+  [
+    "Captain Ferren Areios",
+    "费伦·阿瑞奥斯连长",
+    "A0428-B0406"
+  ],
+  [
+    "Captain Gerad Ixion",
+    "格拉德·伊克西翁连长",
+    "A0428-B0419"
+  ],
+  [
+    "Chief Victualler",
+    "首席补给官",
+    "A0428-B0420"
+  ],
+  [
+    "Captain Hellios",
+    "赫利奥斯连长",
+    "A0428-B0433"
+  ],
+  [
+    "Captain Sinon",
+    "西农连长",
+    "A0428-B0445"
+  ],
+  [
+    "Captain Antilochus",
+    "安提罗科斯连长",
+    "A0428-B0457"
+  ],
+  [
+    "Ultramarines Honour Company",
+    "极限战士荣誉连队",
+    "A0428-B0475"
+  ],
+  [
+    "The Ultramarines battle the Black Legion",
+    "极限战士与黑色军团交战",
+    "A0428-B0479"
+  ],
+  [
+    "Fulminata",
+    "雷霆",
+    "A0428-B0480"
+  ],
+  [
+    "Ultramarines Primaris Space Marine",
+    "极限战士原铸星际战士",
+    "A0428-B0495"
+  ],
+  [
+    "Noted Elements of the Ultramarines",
+    "极限战士的著名人物与事物",
+    "A0428-B0496"
+  ],
+  [
+    "Armour of Antilochus",
+    "安提罗科斯之甲",
+    "A0428-B0498"
+  ],
+  [
+    "Banner of Macragge",
+    "马库拉格之旗",
+    "A0428-B0499"
+  ],
+  [
+    "Gauntlets of Ultramar",
+    "奥特拉玛之拳",
+    "A0428-B0500"
+  ],
+  [
+    "Macragge's Honour",
+    "马库拉格之耀号",
+    "A0428-B0504"
+  ],
+  [
+    "Laurels of Victory",
+    "胜利桂冠号",
+    "A0428-B0506"
+  ],
+  [
+    "NOTE",
+    "说明：以下仅列特别知名的极限战士，如具名特殊角色、小说主要人物等",
+    "A0428-B0509"
+  ],
+  [
+    "Lysimachus Cestus",
+    "里斯马卡斯·赛斯图斯",
+    "A0428-B0516"
+  ],
+  [
+    "Lucretius Corvo",
+    "卢克莱修斯·科沃",
+    "A0428-B0520"
+  ],
+  [
+    "Ptolemy",
+    "托勒密",
+    "A0428-B0522"
+  ],
+  [
+    "Oberdeii",
+    "奥伯德伊",
+    "A0428-B0528"
+  ],
+  [
+    "Lazlo Tiberius",
+    "拉兹洛·提比略",
+    "A0428-B0540"
+  ],
+  [
+    "Vaniel",
+    "梵尼尔",
+    "A0428-B0542"
+  ],
+  [
+    "Captains and Lieutenants",
+    "连长和副官",
+    "A0428-B0544"
+  ],
+  [
+    "Mikael Fabian",
+    "米凯尔·法比安",
+    "A0428-B0545"
+  ],
+  [
+    "Saul Invictus",
+    "索尔·英维克图斯",
+    "A0428-B0546"
+  ],
+  [
+    "Severus",
+    "西弗勒斯",
+    "A0428-B0548"
+  ],
+  [
+    "Demetrian Titus",
+    "德米特里安·泰图斯",
+    "A0428-B0556"
+  ],
+  [
+    "Cassian",
+    "卡西安",
+    "A0428-B0562"
+  ],
+  [
+    "Other Ranks",
+    "其他等级",
+    "A0428-B0564"
+  ],
+  [
+    "Altarion",
+    "奥塔里安",
+    "A0428-B0565"
+  ],
+  [
+    "Kastor",
+    "卡斯托",
+    "A0428-B0569"
+  ],
+  [
+    "Pasanius Lysane",
+    "帕撒尼乌斯·莱萨尼",
+    "A0428-B0575"
+  ],
+  [
+    "Tyrannic War Veterans",
+    "泰伦战争老兵",
+    "A0428-B0578"
+  ],
+  [
+    "Ultramarines Honour Guard",
+    "极限战士荣誉卫队",
+    "A0428-B0579"
+  ],
+  [
+    "Realm of Ultramar",
+    "奥特拉玛领地",
+    "A0429-B0006"
+  ],
+  [
+    "Geography",
+    "地理",
+    "A0429-B0023"
+  ],
+  [
+    "The current realm of Ultramar",
+    "奥特拉玛的当前领域",
+    "A0429-B0027"
+  ],
+  [
+    "Core Systems",
+    "核心星系",
+    "A0429-B0041"
+  ],
+  [
+    "Star Map of Ultramar",
+    "奥特拉玛的星图",
+    "A0429-B0043"
+  ],
+  [
+    "Macragge System",
+    "马库拉格星系",
+    "A0429-B0044"
+  ],
+  [
+    "The Macragge System",
+    "马库拉格星系",
+    "A0429-B0046"
+  ],
+  [
+    "Nova Thulium",
+    "新铥",
+    "A0429-B0049"
+  ],
+  [
+    "Konor System",
+    "康诺星系",
+    "A0429-B0052"
+  ],
+  [
+    "Vanitor",
+    "瓦尼托尔",
+    "A0429-B0056"
+  ],
+  [
+    "Drenthal",
+    "德伦塔尔",
+    "A0429-B0057"
+  ],
+  [
+    "Loebos",
+    "洛博斯",
+    "A0429-B0058"
+  ],
+  [
+    "Nethamus",
+    "内瑟姆斯",
+    "A0429-B0059"
+  ],
+  [
+    "Astaramis",
+    "阿斯塔拉米斯",
+    "A0429-B0060"
+  ],
+  [
+    "Veridian System",
+    "维里迪亚星系",
+    "A0429-B0061"
+  ],
+  [
+    "Ravishol",
+    "拉维绍尔",
+    "A0429-B0065"
+  ],
+  [
+    "Lamane",
+    "拉曼",
+    "A0429-B0066"
+  ],
+  [
+    "Ischara",
+    "伊斯卡拉",
+    "A0429-B0067"
+  ],
+  [
+    "Masali System",
+    "马萨里星系",
+    "A0429-B0069"
+  ],
+  [
+    "Eucladus",
+    "欧克拉德斯 - 星堡",
+    "A0429-B0075"
+  ],
+  [
+    "Talasa System",
+    "塔拉萨星系",
+    "A0429-B0077"
+  ],
+  [
+    "Danarch",
+    "丹那奇",
+    "A0429-B0080"
+  ],
+  [
+    "Falan's Reach",
+    "法兰河段",
+    "A0429-B0081"
+  ],
+  [
+    "Talasa Tertius",
+    "塔拉萨三号",
+    "A0429-B0082"
+  ],
+  [
+    "Talasa Secundus",
+    "塔拉萨二号",
+    "A0429-B0084"
+  ],
+  [
+    "Uldregor",
+    "乌尔德戈尔",
+    "A0429-B0085"
+  ],
+  [
+    "Drohl System",
+    "德罗尔星系",
+    "A0429-B0086"
+  ],
+  [
+    "Drohl Magna",
+    "大德罗尔",
+    "A0429-B0087"
+  ],
+  [
+    "Drohl Secundus",
+    "德罗尔二号",
+    "A0429-B0088"
+  ],
+  [
+    "Ganymedus",
+    "伽倪墨得斯",
+    "A0429-B0089"
+  ],
+  [
+    "Atoli",
+    "阿托利",
+    "A0429-B0090"
+  ],
+  [
+    "Dumar",
+    "杜马尔",
+    "A0429-B0091"
+  ],
+  [
+    "Parmenio System",
+    "帕尔梅尼奥星系",
+    "A0429-B0092"
+  ],
+  [
+    "Iax System",
+    "艾克斯星系",
+    "A0429-B0095"
+  ],
+  [
+    "Tuesen System",
+    "图森星系",
+    "A0429-B0096"
+  ],
+  [
+    "Other Worlds",
+    "其他世界",
+    "A0429-B0097"
+  ],
+  [
+    "Alveiro",
+    "阿尔维罗",
+    "A0429-B0098"
+  ],
+  [
+    "Andermung",
+    "安德蒙",
+    "A0429-B0099"
+  ],
+  [
+    "Callimachus",
+    "卡利马科斯",
+    "A0429-B0101"
+  ],
+  [
+    "Circe",
+    "喀耳刻",
+    "A0429-B0102"
+  ],
+  [
+    "Drohl",
+    "德罗尔",
+    "A0429-B0103"
+  ],
+  [
+    "Howsbridge",
+    "豪斯布里奇",
+    "A0429-B0105"
+  ],
+  [
+    "Longhallow",
+    "长圣星",
+    "A0429-B0107"
+  ],
+  [
+    "Mortendar",
+    "莫滕达尔",
+    "A0429-B0108"
+  ],
+  [
+    "Occluda",
+    "奥克鲁达",
+    "A0429-B0109"
+  ],
+  [
+    "Odyssean",
+    "奥德赛",
+    "A0429-B0110"
+  ],
+  [
+    "Protos",
+    "普鲁托斯",
+    "A0429-B0112"
+  ],
+  [
+    "Sanctoria",
+    "桑托利亚",
+    "A0429-B0114"
+  ],
+  [
+    "Talassar",
+    "塔拉萨",
+    "A0429-B0115"
+  ],
+  [
+    "Tarvan",
+    "塔文",
+    "A0429-B0116"
+  ],
+  [
+    "Vespator",
+    "维斯帕托",
+    "A0429-B0117"
+  ],
+  [
+    "Armatura",
+    "阿玛图拉",
+    "A0429-B0120"
+  ],
+  [
+    "Corum's Landing",
+    "科勒姆登陆地",
+    "A0429-B0123"
+  ],
+  [
+    "Ereth Five",
+    "埃雷斯五号",
+    "A0429-B0124"
+  ],
+  [
+    "Jursa",
+    "尤尔萨",
+    "A0429-B0125"
+  ],
+  [
+    "Kallas",
+    "卡拉斯",
+    "A0429-B0126"
+  ],
+  [
+    "Latona",
+    "拉托那",
+    "A0429-B0127"
+  ],
+  [
+    "Magniat",
+    "马格尼亚特",
+    "A0429-B0128"
+  ],
+  [
+    "Octavia",
+    "奥克塔维亚",
+    "A0429-B0130"
+  ],
+  [
+    "Percepton Primus",
+    "洞察主星",
+    "A0429-B0131"
+  ],
+  [
+    "Quilkhama",
+    "奎尔卡马",
+    "A0429-B0132"
+  ],
+  [
+    "Saramanth",
+    "萨拉玛斯",
+    "A0429-B0133"
+  ],
+  [
+    "Tycor",
+    "泰科尔",
+    "A0429-B0135"
+  ],
+  [
+    "Ultramar on the Eastern Fringe",
+    "东部边缘的奥特拉玛",
+    "A0429-B0145"
+  ],
+  [
+    "Ultramar during the Horus Heresy",
+    "荷鲁斯叛乱时期的奥特拉玛",
+    "A0429-B0149"
+  ],
+  [
+    "The Three Planets",
+    "三星",
+    "A0429-B0168"
+  ],
+  [
+    "Government",
+    "政府",
+    "A0429-B0184"
+  ],
+  [
+    "Master of Ultramar",
+    "奥特拉玛之主 - 罗保特·基里曼",
+    "A0429-B0191"
+  ],
+  [
+    "Tetrarch of Andermung",
+    "安德蒙四方领主 - 波坦",
+    "A0429-B0197"
+  ],
+  [
+    "Tetrarch of Protos",
+    "普鲁托斯四方领主 - 巴尔蒂斯",
+    "A0429-B0199"
+  ],
+  [
+    "Tetrarch of Vespator",
+    "维斯帕托四方领主 - 德西穆斯·菲利克斯",
+    "A0429-B0201"
+  ],
+  [
+    "Society",
+    "社会",
+    "A0429-B0205"
+  ],
+  [
+    "Military",
+    "军事",
+    "A0429-B0212"
+  ],
+  [
+    "Ultramarine Fleet",
+    "极限战士舰队",
+    "A0429-B0216"
+  ],
+  [
+    "Shield Chapters of Ultramar",
+    "奥特拉玛之盾战团",
+    "A0429-B0217"
+  ],
+  [
+    "Symbol of the Lord Macragge",
+    "马库拉格领主的标志",
+    "A0430-B0004"
+  ],
+  [
+    "Decon",
+    "德康 - 第三次建军期间的第三任马库拉格领主",
+    "A0430-B0010"
+  ],
+  [
+    "Agnathio",
+    "阿格纳西奥 - 646.M32的马库拉格领主",
+    "A0430-B0012"
+  ],
+  [
+    "Balthus Dardanus",
+    "巴尔蒂斯·达尔达纽斯 - 第十七任马库拉格领主",
+    "A0430-B0014"
+  ],
+  [
+    "Cominus",
+    "科米努斯",
+    "A0433-B0008"
+  ],
+  [
+    "Daelus",
+    "戴勒斯",
+    "A0433-B0009"
+  ],
+  [
+    "Troncus",
+    "特隆库斯",
+    "A0433-B0010"
+  ],
+  [
+    "Cadmus",
+    "卡德摩斯",
+    "A0433-B0011"
+  ],
+  [
+    "Tullio",
+    "图利奥",
+    "A0433-B0012"
+  ],
+  [
+    "Austen",
+    "奥斯汀",
+    "A0433-B0013"
+  ],
+  [
+    "Ixen",
+    "艾克森",
+    "A0433-B0014"
+  ],
+  [
+    "Diamedes",
+    "迪亚梅德斯",
+    "A0433-B0015"
+  ],
+  [
+    "Yansar",
+    "扬萨尔",
+    "A0433-B0016"
+  ],
+  [
+    "Gathein",
+    "加泰因",
+    "A0433-B0017"
+  ],
+  [
+    "Pariah Crusade",
+    "帕里亚远征",
+    "A0434-B0010"
+  ],
+  [
+    "Victrix Honour Guard",
+    "常胜荣誉卫队",
+    "A0434-B0017"
+  ],
+  [
+    "Captain Cato Sicarius",
+    "连长卡托·西卡留斯 - 指挥官",
+    "A0434-B0019"
+  ],
+  [
+    "Lethro Ados",
+    "莱斯罗·阿多斯",
+    "A0434-B0021"
+  ],
+  [
+    "Nemus Adranus",
+    "尼穆斯·阿德兰努斯",
+    "A0434-B0022"
+  ],
+  [
+    "Dibus",
+    "狄巴斯",
+    "A0434-B0023"
+  ],
+  [
+    "Trismerus Gerorian",
+    "特瑞斯墨斯·杰罗里安",
+    "A0434-B0024"
+  ],
+  [
+    "Macullus",
+    "马库卢斯",
+    "A0434-B0025"
+  ],
+  [
+    "Issoros Praernon",
+    "伊索罗斯·普瑞尔农",
+    "A0434-B0026"
+  ],
+  [
+    "Morvio Tarilis",
+    "莫维奥·塔瑞利斯",
+    "A0434-B0027"
+  ],
+  [
+    "Tierinus",
+    "蒂耶努斯",
+    "A0434-B0028"
+  ],
+  [
+    "Invictarii Centurion",
+    "常胜军百夫长",
+    "A0435-B0004"
+  ],
+  [
+    "Symbol of the Invictarii",
+    "常胜军的标志",
+    "A0435-B0009"
+  ],
+  [
+    "Ultramarines Invictarii",
+    "极限战士常胜军",
+    "A0435-B0013"
+  ],
+  [
+    "Drakus Gorod",
+    "德拉克斯·戈罗德",
+    "A0435-B0020"
+  ],
+  [
+    "Maglios",
+    "马格洛斯",
+    "A0435-B0022"
+  ],
+  [
+    "Tacitun Ullitor",
+    "塔西顿·尤利托",
+    "A0435-B0024"
+  ],
+  [
+    "Fulmentarus Squad",
+    "辉脊小队",
+    "A0436-B0004"
+  ],
+  [
+    "Ultramarines Breacher Marine Varinius",
+    "极限战士攻坚者瓦里尼乌斯",
+    "A0439-B0004"
+  ],
+  [
+    "Tyrannic War Veteran",
+    "泰伦战争老兵",
+    "A0440-B0004"
+  ],
+  [
+    "Combat Doctrine",
+    "作战理论",
+    "A0440-B0016"
+  ],
+  [
+    "Nemesis Destroyer",
+    "复仇女神毁灭者",
+    "A0441-B0004"
+  ],
+  [
+    "White Consuls Space Marine",
+    "白色执政官星际战士",
+    "A0443-B0034"
+  ],
+  [
+    "The Defense of Ulthor",
+    "乌索尔防御",
+    "A0443-B0048"
+  ],
+  [
+    "Divine Splendour",
+    "神圣壮丽号",
+    "A0443-B0062"
+  ],
+  [
+    "Righteous Fury",
+    "正义之怒号",
+    "A0443-B0064"
+  ],
+  [
+    "Sword of Truth",
+    "真理之剑号",
+    "A0443-B0066"
+  ],
+  [
+    "Eternal Faith",
+    "永恒信仰号",
+    "A0443-B0068"
+  ],
+  [
+    "Hermes",
+    "赫尔墨斯号",
+    "A0443-B0070"
+  ],
+  [
+    "Hero of Sabatine",
+    "萨巴蒂尼英雄号",
+    "A0443-B0072"
+  ],
+  [
+    "Borsellius",
+    "博尔塞利乌斯",
+    "A0443-B0075"
+  ],
+  [
+    "Cymar Xydias",
+    "赛玛尔·泽迪亚斯 - 前联合战团长（已故）",
+    "A0443-B0076"
+  ],
+  [
+    "Ridian Artemanis",
+    "瑞迪安·阿尔特马尼斯 - 前联合战团长",
+    "A0443-B0078"
+  ],
+  [
+    "Titus Valens",
+    "泰图斯·瓦伦斯 - 前联合战团长（已故）",
+    "A0443-B0080"
+  ],
+  [
+    "Daceus",
+    "达修斯 - 第二连队连长",
+    "A0443-B0082"
+  ],
+  [
+    "Memnon",
+    "门农 - 第四连队连长",
+    "A0443-B0084"
+  ],
+  [
+    "Gaius Aquilius",
+    "盖乌斯·阿奎留斯",
+    "A0443-B0086"
+  ],
+  [
+    "Kandred",
+    "康莱德",
+    "A0443-B0092"
+  ],
+  [
+    "Atramo",
+    "阿特拉莫",
+    "A0443-B0094"
+  ],
+  [
+    "Argan",
+    "阿尔甘",
+    "A0443-B0096"
+  ],
+  [
+    "Jerimias",
+    "杰瑞米亚斯",
+    "A0443-B0098"
+  ],
+  [
+    "Thaniel Ectros",
+    "塔尼尔·埃克特罗斯",
+    "A0443-B0100"
+  ],
+  [
+    "Titus Constantine",
+    "泰图斯·康斯坦丁 - 在死亡守望服役",
+    "A0443-B0102"
+  ],
+  [
+    "Malgar Irongrasp",
+    "马尔加·铁握 - 加入黑色军团的叛徒",
+    "A0443-B0104"
+  ],
+  [
+    "Arias",
+    "阿里亚斯 - 战术战士军士 - 阿里亚斯小队，第二连队",
+    "A0443-B0106"
+  ],
+  [
+    "Cossos",
+    "科索斯",
+    "A0443-B0108"
+  ],
+  [
+    "Lertes",
+    "勒特斯",
+    "A0443-B0110"
+  ],
+  [
+    "Probis",
+    "普罗比斯",
+    "A0443-B0112"
+  ],
+  [
+    "Tiberian",
+    "提贝里安",
+    "A0443-B0114"
+  ],
+  [
+    "Cadras",
+    "卡德拉斯 - 星语官",
+    "A0443-B0116"
+  ],
+  [
+    "The Yria Massacre",
+    "伊里亚大屠杀",
+    "A0444-B0053"
+  ],
+  [
+    "The Season of Blood",
+    "血季",
+    "A0444-B0067"
+  ],
+  [
+    "Silver Skulls Captain",
+    "银色颅骨连长",
+    "A0444-B0072"
+  ],
+  [
+    "Silver Skulls Marine",
+    "银色颅骨战士",
+    "A0444-B0089"
+  ],
+  [
+    "Argent Guide",
+    "银白指引",
+    "A0444-B0104"
+  ],
+  [
+    "Silverstrike",
+    "银色打击",
+    "A0444-B0106"
+  ],
+  [
+    "Argent Hammer",
+    "银白之锤号",
+    "A0444-B0111"
+  ],
+  [
+    "Manifest Destiny",
+    "天定命运号",
+    "A0444-B0113"
+  ],
+  [
+    "Quicksilver",
+    "快银号",
+    "A0444-B0117"
+  ],
+  [
+    "Dread Argent",
+    "恐惧白银号",
+    "A0444-B0119"
+  ],
+  [
+    "Spear of Destiny",
+    "命运之矛号",
+    "A0444-B0121"
+  ],
+  [
+    "Seer's Steed",
+    "预言者之骑号",
+    "A0444-B0123"
+  ],
+  [
+    "Lord Commander Argentius",
+    "领主指挥官阿根提乌斯",
+    "A0444-B0127"
+  ],
+  [
+    "Chief Prognosticator Vashiro",
+    "首席预言者瓦西罗 - 目前“瓦西罗”的出生名是“埃罗斯",
+    "A0444-B0130"
+  ],
+  [
+    "Epistolary Thule",
+    "星语官图勒",
+    "A0444-B0132"
+  ],
+  [
+    "Prognosticator Andus",
+    "预言者安杜斯",
+    "A0444-B0133"
+  ],
+  [
+    "Prognosticator Bhehan",
+    "预言者贝汉 - 隶属于第一连队，以前隶属于第五和第八连队",
+    "A0444-B0134"
+  ],
+  [
+    "Prognosticator Brand",
+    "预言者布兰德 - 隶属于第四连队，担任其高级顾问",
+    "A0444-B0136"
+  ],
+  [
+    "Prognosticator Rennin Tri'el",
+    "预言者雷宁·特里尔 - 目前在死亡守望中服役",
+    "A0444-B0138"
+  ],
+  [
+    "Prognosticator Rhondus",
+    "预言者朗多斯 -（已故）",
+    "A0444-B0140"
+  ],
+  [
+    "Prognosticator Aharan",
+    "预言者阿哈兰 -（已故）",
+    "A0444-B0142"
+  ],
+  [
+    "Apothecary Malus",
+    "药剂师马吕斯",
+    "A0444-B0147"
+  ],
+  [
+    "Armorium",
+    "军械库",
+    "A0444-B0151"
+  ],
+  [
+    "Techmarine Nodens",
+    "科技战士诺登斯 - 死亡守望成员",
+    "A0444-B0152"
+  ],
+  [
+    "Techmarine Kuruk",
+    "科技战士库鲁克 - 附属于第八连队",
+    "A0444-B0156"
+  ],
+  [
+    "Techmarine Theoderyk",
+    "科技战士狄奥德里克 -（已故）",
+    "A0444-B0158"
+  ],
+  [
+    "Techmarine Rikolux",
+    "科技战士里科勒克斯 -（已故）",
+    "A0444-B0160"
+  ],
+  [
+    "Techmarine Zilaris",
+    "科技战士齐拉里斯 - 在死亡守望中服役",
+    "A0444-B0162"
+  ],
+  [
+    "Captain Kerelan",
+    "连长克勒兰",
+    "A0444-B0166"
+  ],
+  [
+    "Brother Djul",
+    "朱尔兄弟 - 塔尔里克图格",
+    "A0444-B0167"
+  ],
+  [
+    "Brother Vrakos",
+    "维拉科斯兄弟 - 塔尔里克图格",
+    "A0444-B0169"
+  ],
+  [
+    "Brother Ma’lok",
+    "玛'洛克兄弟",
+    "A0444-B0171"
+  ],
+  [
+    "Brother Dastillus",
+    "达斯蒂鲁斯兄弟",
+    "A0444-B0172"
+  ],
+  [
+    "Brother Ko",
+    "科兄弟",
+    "A0444-B0173"
+  ],
+  [
+    "Brother Asterios",
+    "阿斯特瑞奥斯兄弟",
+    "A0444-B0174"
+  ],
+  [
+    "Sergeant Bastev Tor’ra",
+    "巴斯捷夫·托尔'拉军士 - 翡翠小队（已故）",
+    "A0444-B0175"
+  ],
+  [
+    "Brother Tek",
+    "特克兄弟 - 翡翠小队（已故）",
+    "A0444-B0177"
+  ],
+  [
+    "Brother Vra’del",
+    "弗拉'德尔兄弟 - 翡翠小队（已故）",
+    "A0444-B0179"
+  ],
+  [
+    "Captain Eddan Bourne",
+    "连长埃德·伯恩",
+    "A0444-B0182"
+  ],
+  [
+    "Captain Argentus",
+    "连长阿根图斯",
+    "A0444-B0184"
+  ],
+  [
+    "Redemptor Dreadnought Lazarius",
+    "救赎者无畏机甲拉扎琉斯",
+    "A0444-B0185"
+  ],
+  [
+    "Venerable Dreadnought Alenso",
+    "神圣无畏机甲阿伦索",
+    "A0444-B0186"
+  ],
+  [
+    "Captain Daerys Arrun",
+    "连长戴里斯·阿伦 -（已故）",
+    "A0444-B0188"
+  ],
+  [
+    "Sergeant Matteus",
+    "马特斯军士 - （已故）。在吉尔达裂隙战役中被杀",
+    "A0444-B0190"
+  ],
+  [
+    "Sergeant Porteus",
+    "波蒂厄斯军士 - 红玛瑙小队",
+    "A0444-B0192"
+  ],
+  [
+    "Sergeant Braxus",
+    "布拉克索斯军士 - 紫晶小队（已故）",
+    "A0444-B0195"
+  ],
+  [
+    "Brother K'la",
+    "凯'拉兄弟 - 紫晶小队（已故）",
+    "A0444-B0197"
+  ],
+  [
+    "Brother Artum",
+    "阿图姆兄弟 - 紫晶小队（已故）",
+    "A0444-B0199"
+  ],
+  [
+    "Assault Captain Kyaerus",
+    "突击连长凯亚鲁斯 - 前第七连队军士",
+    "A0444-B0203"
+  ],
+  [
+    "(former) Captain Keile Meyoran",
+    "（前）凯勒·梅约兰连长 -（已故）",
+    "A0444-B0205"
+  ],
+  [
+    "(former) Captain Andreas Kulle",
+    "（前）安德烈亚斯·库勒连长 -（已故）",
+    "A0444-B0207"
+  ],
+  [
+    "Sergeant Gilaes Ur'ten",
+    "吉拉斯·乌尔滕军士 - 清算者小队军士",
+    "A0444-B0209"
+  ],
+  [
+    "Brother Reuben",
+    "鲁本兄弟",
+    "A0444-B0211"
+  ],
+  [
+    "Brother Jalonis",
+    "贾洛尼斯兄弟 - 清算者小队",
+    "A0444-B0213"
+  ],
+  [
+    "Brother Tikaye",
+    "提卡耶兄弟 - 清算者小队",
+    "A0444-B0215"
+  ],
+  [
+    "Brother Wulfric",
+    "伍尔弗里克兄弟 - 清算者（已故）",
+    "A0444-B0217"
+  ],
+  [
+    "Dreadnought Diomedes",
+    "无畏机甲狄俄墨得斯",
+    "A0444-B0219"
+  ],
+  [
+    "Siege Captain Rasheke Daviks",
+    "攻城连长拉希克·戴维克斯",
+    "A0444-B0221"
+  ],
+  [
+    "Scout Captain Attellus",
+    "侦察连长阿泰卢斯",
+    "A0444-B0224"
+  ],
+  [
+    "Scout Sergeant Kyaerus",
+    "侦察军士凯亚鲁斯",
+    "A0444-B0227"
+  ],
+  [
+    "Volker Straub",
+    "沃尔克·斯特劳布",
+    "A0444-B0229"
+  ],
+  [
+    "Ignatius",
+    "伊格纳修斯",
+    "A0444-B0231"
+  ],
+  [
+    "Berem",
+    "贝雷姆 -（已故）战团侍从/驾驶员",
+    "A0444-B0233"
+  ],
+  [
+    "Unknown Company",
+    "未知连队",
+    "A0444-B0235"
+  ],
+  [
+    "Captain Alkon",
+    "阿尔康连长 -（已故）",
+    "A0444-B0236"
+  ],
+  [
+    "Captain Sinopa",
+    "西诺珀连长",
+    "A0444-B0238"
+  ],
+  [
+    "Captain Solkun",
+    "索尔昆连长",
+    "A0444-B0239"
+  ],
+  [
+    "Lieutenant Golrath Stern",
+    "副官戈拉斯·斯特恩",
+    "A0444-B0240"
+  ],
+  [
+    "Brother Varlen",
+    "瓦伦兄弟",
+    "A0444-B0243"
+  ],
+  [
+    "Brother Diamedes",
+    "迪亚梅德斯兄弟",
+    "A0444-B0245"
+  ],
+  [
+    "Blood Star Campaign",
+    "血星战役",
+    "A0445-B0012"
+  ],
+  [
+    "Dark Crusade",
+    "黑暗远征",
+    "A0445-B0014"
+  ],
+  [
+    "Brother-Captain Varagol",
+    "兄弟连长瓦拉戈尔",
+    "A0445-B0016"
+  ],
+  [
+    "Brother Vermillion",
+    "维米里恩兄弟",
+    "A0445-B0017"
+  ],
+  [
+    "Battle of Sagan's Moon",
+    "萨根之月之战",
+    "A0446-B0027"
+  ],
+  [
+    "Virtus Perdurat",
+    "持久勇气号",
+    "A0446-B0042"
+  ],
+  [
+    "Polaris Rising",
+    "北极星升号",
+    "A0446-B0044"
+  ],
+  [
+    "Haran Stark",
+    "哈兰·斯塔克",
+    "A0446-B0047"
+  ],
+  [
+    "Mathias Dee",
+    "马蒂亚斯·迪",
+    "A0446-B0049"
+  ],
+  [
+    "Narthaniel",
+    "纳萨尼尔",
+    "A0446-B0051"
+  ],
+  [
+    "Tarnus Vale",
+    "塔尔努斯·维尔",
+    "A0446-B0053"
+  ],
+  [
+    "Aviddan Tagas",
+    "阿维丹·塔加斯",
+    "A0446-B0055"
+  ],
+  [
+    "Veteran Brother Landgrave",
+    "老兵兄弟兰德格雷夫",
+    "A0446-B0058"
+  ],
+  [
+    "Veteran Sgt Revok",
+    "老兵军士雷沃克",
+    "A0446-B0060"
+  ],
+  [
+    "Brother Malsan",
+    "马尔桑兄弟",
+    "A0446-B0062"
+  ],
+  [
+    "Brother Dravholt",
+    "德拉夫霍尔特兄弟",
+    "A0446-B0064"
+  ],
+  [
+    "Techmarine Ortrun",
+    "科技战士奥尔特伦",
+    "A0446-B0066"
+  ],
+  [
+    "Original colour scheme, Badab War",
+    "最初配色，巴达布战争",
+    "A0446-B0068"
+  ],
+  [
+    "Recent Years",
+    "近年",
+    "A0447-B0028"
+  ],
+  [
+    "Novamarines battle-brother in current color scheme",
+    "采用现行配色的新星战士战斗兄弟",
+    "A0447-B0032"
+  ],
+  [
+    "The Indomitus Crusade",
+    "不屈远征",
+    "A0447-B0073"
+  ],
+  [
+    "Undated Events",
+    "年代不详的事件",
+    "A0447-B0086"
+  ],
+  [
+    "Kor'var Campaign",
+    "科尔'瓦尔战役",
+    "A0447-B0087"
+  ],
+  [
+    "Second Battle of Sagan",
+    "第二次萨根之战",
+    "A0447-B0090"
+  ],
+  [
+    "Novamarines Firstborn",
+    "新星战士长子",
+    "A0447-B0101"
+  ],
+  [
+    "Inexorable Fury",
+    "无情愤怒号",
+    "A0447-B0119"
+  ],
+  [
+    "Liberator",
+    "解放者号",
+    "A0447-B0121"
+  ],
+  [
+    "Novum in Honourum",
+    "荣誉新星号",
+    "A0447-B0123"
+  ],
+  [
+    "Ceaseless Vigilance",
+    "无间警戒号",
+    "A0447-B0125"
+  ],
+  [
+    "Corvo's Hammer",
+    "科沃之锤号",
+    "A0447-B0127"
+  ],
+  [
+    "Spear of the Void",
+    "虚空之矛号",
+    "A0447-B0129"
+  ],
+  [
+    "Ulixis Rex, Stormtalon Gunship",
+    "尤利西斯之王号，风暴爪炮艇",
+    "A0447-B0135"
+  ],
+  [
+    "Gaius Hadraichus",
+    "盖乌斯·哈德拉伊库斯",
+    "A0447-B0139"
+  ],
+  [
+    "Bardan Dovaro",
+    "巴丹·多瓦罗",
+    "A0447-B0141"
+  ],
+  [
+    "Mordecai Blaylock",
+    "莫迪凯·布莱洛克",
+    "A0447-B0143"
+  ],
+  [
+    "Gilad Nerva",
+    "吉拉德·涅尔瓦",
+    "A0447-B0145"
+  ],
+  [
+    "Halvros",
+    "哈尔夫罗斯",
+    "A0447-B0147"
+  ],
+  [
+    "Lyonus",
+    "莱昂纳斯",
+    "A0447-B0149"
+  ],
+  [
+    "Lyonne",
+    "莱昂恩",
+    "A0447-B0151"
+  ],
+  [
+    "Aethorian",
+    "埃索瑞恩",
+    "A0447-B0153"
+  ],
+  [
+    "Lobos",
+    "洛波斯",
+    "A0447-B0155"
+  ],
+  [
+    "Ishmayn",
+    "伊斯曼",
+    "A0447-B0157"
+  ],
+  [
+    "Vortes",
+    "沃特斯 - 连长",
+    "A0447-B0159"
+  ],
+  [
+    "Alathresis",
+    "阿拉瑟瑞斯",
+    "A0447-B0161"
+  ],
+  [
+    "Astopites",
+    "阿斯托派",
+    "A0447-B0163"
+  ],
+  [
+    "Edermo",
+    "埃德莫",
+    "A0447-B0165"
+  ],
+  [
+    "Phedarus",
+    "费达罗斯",
+    "A0447-B0167"
+  ],
+  [
+    "Galius",
+    "盖利乌斯",
+    "A0447-B0169"
+  ],
+  [
+    "Haevron",
+    "海夫隆",
+    "A0447-B0171"
+  ],
+  [
+    "Rextrus",
+    "雷克斯楚斯",
+    "A0447-B0173"
+  ],
+  [
+    "Stentor Pranus",
+    "斯坦托·普拉纳斯",
+    "A0447-B0175"
+  ],
+  [
+    "Decebal",
+    "德切巴尔",
+    "A0447-B0177"
+  ],
+  [
+    "Herulian",
+    "赫鲁里安",
+    "A0447-B0179"
+  ],
+  [
+    "Lyone",
+    "莱昂",
+    "A0447-B0181"
+  ],
+  [
+    "Mallas Bomont",
+    "马拉斯·博蒙特",
+    "A0447-B0183"
+  ],
+  [
+    "Hancarn",
+    "汉卡恩",
+    "A0447-B0189"
+  ],
+  [
+    "Maldinus",
+    "马尔丁努斯 - 副官",
+    "A0447-B0191"
+  ],
+  [
+    "Balus Karath",
+    "巴卢斯·卡拉特",
+    "A0447-B0193"
+  ],
+  [
+    "Castellans of the Rift heraldry",
+    "裂隙堡主纹章",
+    "A0448-B0030"
+  ],
+  [
+    "Armour of Phourion",
+    "福里昂之甲",
+    "A0448-B0037"
+  ],
+  [
+    "Gauntlet of the Imperium",
+    "帝国臂铠",
+    "A0448-B0038"
+  ],
+  [
+    "Muruk's Wrath",
+    "姆洛克之怒",
+    "A0448-B0039"
+  ],
+  [
+    "Primarch's Codex",
+    "原体圣典",
+    "A0448-B0040"
+  ],
+  [
+    "Bulwark",
+    "壁垒号",
+    "A0448-B0042"
+  ],
+  [
+    "Eternal Watchman",
+    "永恒守望者号",
+    "A0448-B0044"
+  ],
+  [
+    "Dark Sentry",
+    "黑暗哨兵号",
+    "A0448-B0046"
+  ],
+  [
+    "Night Guard",
+    "午夜守卫号",
+    "A0448-B0048"
+  ],
+  [
+    "Twilight Sentinel",
+    "黄昏哨兵号",
+    "A0448-B0050"
+  ],
+  [
+    "Bizarme",
+    "比扎姆号",
+    "A0448-B0052"
+  ],
+  [
+    "Fauchard",
+    "战镰号",
+    "A0448-B0054"
+  ],
+  [
+    "Glaive",
+    "长刀号",
+    "A0448-B0056"
+  ],
+  [
+    "Halberd",
+    "长戟号",
+    "A0448-B0058"
+  ],
+  [
+    "Poleaxe",
+    "长斧号",
+    "A0448-B0060"
+  ],
+  [
+    "Voulge",
+    "斧枪号",
+    "A0448-B0062"
+  ],
+  [
+    "Svonya",
+    "斯沃尼亚号",
+    "A0448-B0064"
+  ],
+  [
+    "Trident",
+    "三叉戟号",
+    "A0448-B0066"
+  ],
+  [
+    "Ba'stien Grix",
+    "巴'斯提恩·格里克斯",
+    "A0448-B0069"
+  ],
+  [
+    "Krenel Pors",
+    "克雷内尔·波斯",
+    "A0448-B0071"
+  ],
+  [
+    "Oppidus Glaukis",
+    "奥皮达斯·格劳基斯",
+    "A0448-B0073"
+  ],
+  [
+    "Tenalus Proteik",
+    "特纳鲁斯·普罗泰克",
+    "A0448-B0075"
+  ],
+  [
+    "Artung Muruk",
+    "阿通·姆洛克",
+    "A0448-B0077"
+  ],
+  [
+    "Argis Phourion",
+    "阿吉斯·福里昂",
+    "A0448-B0079"
+  ],
+  [
+    "Bartizan Nikol",
+    "巴蒂赞·尼科尔",
+    "A0448-B0081"
+  ],
+  [
+    "Howling Griffon",
+    "咆哮狮鹫",
+    "A0449-B0040"
+  ],
+  [
+    "The Howling Griffons battle tyranids",
+    "咆哮狮鹫与泰伦作战",
+    "A0449-B0065"
+  ],
+  [
+    "The Griffon Resurgent",
+    "狮鹫复兴",
+    "A0449-B0082"
+  ],
+  [
+    "Storming of Perditas Keep",
+    "强攻佩尔迪塔斯要塞",
+    "A0449-B0094"
+  ],
+  [
+    "Battle of Malak",
+    "马拉克之战",
+    "A0449-B0098"
+  ],
+  [
+    "Undated",
+    "未注明日期",
+    "A0449-B0102"
+  ],
+  [
+    "Dennar IV Rebellion",
+    "丹纳尔四号叛乱",
+    "A0449-B0107"
+  ],
+  [
+    "The Fall of Medusa V",
+    "美杜莎五号陷落",
+    "A0449-B0109"
+  ],
+  [
+    "Veidt's Schism",
+    "维德特分裂",
+    "A0449-B0115"
+  ],
+  [
+    "Noted Elements of the Howling Griffons",
+    "咆哮狮鹫的著名人物与事物",
+    "A0449-B0127"
+  ],
+  [
+    "The Griffon's Pride",
+    "狮鹫之傲",
+    "A0449-B0129"
+  ],
+  [
+    "The Griffon's Pride Terminator Lightning Claws",
+    "狮鹫之傲终结者闪电爪",
+    "A0449-B0132"
+  ],
+  [
+    "The Lost Halo",
+    "失落光环",
+    "A0449-B0133"
+  ],
+  [
+    "Vessels",
+    "战舰",
+    "A0449-B0135"
+  ],
+  [
+    "Force of Destiny",
+    "命运之力号",
+    "A0449-B0136"
+  ],
+  [
+    "Augeias",
+    "奥吉亚斯号",
+    "A0449-B0138"
+  ],
+  [
+    "Cerulean Claw",
+    "天蓝之爪号",
+    "A0449-B0140"
+  ],
+  [
+    "Rampant",
+    "猖獗号",
+    "A0449-B0142"
+  ],
+  [
+    "Gloriam",
+    "荣耀号",
+    "A0449-B0145"
+  ],
+  [
+    "Maneus",
+    "曼纽斯号",
+    "A0449-B0149"
+  ],
+  [
+    "Trajan",
+    "图拉真号",
+    "A0449-B0157"
+  ],
+  [
+    "Sword of Fire",
+    "火焰之剑号",
+    "A0449-B0161"
+  ],
+  [
+    "Shield of Mancora",
+    "曼科拉之盾号",
+    "A0449-B0165"
+  ],
+  [
+    "Talon of Intollerance",
+    "偏狭之爪号",
+    "A0449-B0169"
+  ],
+  [
+    "Alvaro",
+    "阿尔瓦罗",
+    "A0449-B0177"
+  ],
+  [
+    "Kenot Friche",
+    "基诺·弗里切",
+    "A0449-B0179"
+  ],
+  [
+    "Penvath Joachim",
+    "彭瓦特·约阿希姆",
+    "A0449-B0184"
+  ],
+  [
+    "Captain Alvaro",
+    "阿尔瓦罗连长",
+    "A0449-B0189"
+  ],
+  [
+    "Falchian",
+    "法尔钦",
+    "A0449-B0190"
+  ],
+  [
+    "Darion",
+    "达里恩",
+    "A0449-B0192"
+  ],
+  [
+    "Borganor",
+    "博尔加诺",
+    "A0449-B0194"
+  ],
+  [
+    "Torkos",
+    "托尔科斯",
+    "A0449-B0196"
+  ],
+  [
+    "Xerxes",
+    "薛西斯",
+    "A0449-B0198"
+  ],
+  [
+    "Malegran",
+    "马勒格兰",
+    "A0449-B0205"
+  ],
+  [
+    "Prodyn Keruv",
+    "普罗丁·凯鲁夫",
+    "A0449-B0207"
+  ],
+  [
+    "Mask of Dantioch",
+    "丹提欧克面具 - 头盔 - 最初由巴拉巴斯·丹提欧克佩戴，被视为战团长职位的象征",
+    "A0450-B0075"
+  ],
+  [
+    "Aegida",
+    "神盾",
+    "A0450-B0081"
+  ],
+  [
+    "Heart of Cronus",
+    "克洛诺斯之心号",
+    "A0450-B0083"
+  ],
+  [
+    "Honour's Might",
+    "荣誉之力号",
+    "A0450-B0085"
+  ],
+  [
+    "Atreides",
+    "亚崔迪号",
+    "A0450-B0087"
+  ],
+  [
+    "Callandra",
+    "卡兰德拉号",
+    "A0450-B0089"
+  ],
+  [
+    "Gift of Enyo",
+    "厄倪俄之礼号",
+    "A0450-B0091"
+  ],
+  [
+    "Nova Prospectum",
+    "新星视野号",
+    "A0450-B0093"
+  ],
+  [
+    "Sterope",
+    "斯忒洛珀号",
+    "A0450-B0095"
+  ],
+  [
+    "Xenophon",
+    "色诺芬号",
+    "A0450-B0097"
+  ],
+  [
+    "Light of the Pharos",
+    "灯塔之光号",
+    "A0450-B0099"
+  ],
+  [
+    "Laodameia's Lament",
+    "拉俄达弥亚之悼号",
+    "A0450-B0101"
+  ],
+  [
+    "Pale Rider",
+    "苍白骑手号",
+    "A0450-B0103"
+  ],
+  [
+    "Calixtus",
+    "卡利克斯托斯号",
+    "A0450-B0105"
+  ],
+  [
+    "Dromea Bathos",
+    "深径之程号",
+    "A0450-B0106"
+  ],
+  [
+    "Ionia",
+    "伊奥尼亚号",
+    "A0450-B0107"
+  ],
+  [
+    "Lamentarion",
+    "哀悼号",
+    "A0450-B0109"
+  ],
+  [
+    "Chrepan Steed",
+    "神谕骏马号",
+    "A0450-B0111"
+  ],
+  [
+    "Harpagus",
+    "哈帕古斯号",
+    "A0450-B0113"
+  ],
+  [
+    "Reaper",
+    "收割者号",
+    "A0450-B0115"
+  ],
+  [
+    "Chaplain Segas",
+    "塞加斯教士",
+    "A0450-B0124"
+  ],
+  [
+    "Great Crusade-era Salamanders Space Marine",
+    "大远征时期火蜥蜴星际战士",
+    "A0451-B0045"
+  ],
+  [
+    "Salamanders legionary",
+    "火蜥蜴军团士兵",
+    "A0451-B0052"
+  ],
+  [
+    "Reforging",
+    "重铸",
+    "A0451-B0077"
+  ],
+  [
+    "Salamanders in action",
+    "行动中的火蜥蜴",
+    "A0451-B0091"
+  ],
+  [
+    "Year Unknown",
+    "年份不详",
+    "A0451-B0176"
+  ],
+  [
+    "Salamanders Librarian",
+    "火蜥蜴智库员",
+    "A0451-B0199"
+  ],
+  [
+    "Salamanders Techmarine with Thunderfire Cannon",
+    "火蜥蜴科技战士和雷火炮",
+    "A0451-B0233"
+  ],
+  [
+    "First Company",
+    "第一连队",
+    "A0451-B0263"
+  ],
+  [
+    "Forgefather Vulkan He'stan",
+    "铸造之父伏尔甘·赫斯坦",
+    "A0451-B0268"
+  ],
+  [
+    "Firedrakes",
+    "火龙",
+    "A0451-B0274"
+  ],
+  [
+    "Veteran Squads",
+    "老兵小队",
+    "A0451-B0275"
+  ],
+  [
+    "Argos",
+    "阿尔戈斯",
+    "A0451-B0282"
+  ],
+  [
+    "Kor'hadron",
+    "科尔’哈顿",
+    "A0451-B0283"
+  ],
+  [
+    "Rhoshan",
+    "罗尚",
+    "A0451-B0284"
+  ],
+  [
+    "Battle Barges",
+    "战斗驳船",
+    "A0451-B0304"
+  ],
+  [
+    "Strike Cruisers",
+    "打击巡洋舰",
+    "A0451-B0305"
+  ],
+  [
+    "Thunderhawks",
+    "雷鹰",
+    "A0451-B0307"
+  ],
+  [
+    "Reclusiarch T'Kell Konn",
+    "隐修长特’凯尔·科恩",
+    "A0451-B0317"
+  ],
+  [
+    "Defenders of Nocturne",
+    "夜曲星卫士",
+    "A0451-B0323"
+  ],
+  [
+    "The Pyroclasts",
+    "焚火者",
+    "A0451-B0339"
+  ],
+  [
+    "The Branded",
+    "烙印者",
+    "A0451-B0355"
+  ],
+  [
+    "The Drake Hunters'",
+    "火龙猎手",
+    "A0451-B0372"
+  ],
+  [
+    "Flamehammers",
+    "火焰之锤",
+    "A0451-B0387"
+  ],
+  [
+    "Sons of Nocturne",
+    "夜曲星之子",
+    "A0451-B0403"
+  ],
+  [
+    "Scouts",
+    "侦察兵",
+    "A0451-B0411"
+  ],
+  [
+    "Scout Bikes",
+    "侦察摩托",
+    "A0451-B0412"
+  ],
+  [
+    "Company Descriptions",
+    "连队描述",
+    "A0451-B0417"
+  ],
+  [
+    "Salamanders Primaris Space Marine",
+    "火蜥蜴原铸星际战士",
+    "A0451-B0436"
+  ],
+  [
+    "Noted Elements of the Salamanders",
+    "火蜥蜴的著名成员",
+    "A0451-B0439"
+  ],
+  [
+    "Relics and Artefacts",
+    "遗物和造物",
+    "A0451-B0440"
+  ],
+  [
+    "Artefacts of Vulkan",
+    "沃坎造物",
+    "A0451-B0441"
+  ],
+  [
+    "The Malleus Noctum",
+    "夜曲之锤",
+    "A0451-B0444"
+  ],
+  [
+    "Vessels & Gunships",
+    "战舰&炮艇",
+    "A0451-B0450"
+  ],
+  [
+    "Flamewrought",
+    "火焰精炼号 - 荣光女王级战列舰，原体的战舰",
+    "A0451-B0451"
+  ],
+  [
+    "Fire Drake",
+    "火龙号",
+    "A0451-B0454"
+  ],
+  [
+    "Fire Anvil",
+    "火焰铁砧号",
+    "A0451-B0456"
+  ],
+  [
+    "Immortal Anvil",
+    "永恒铁砧号",
+    "A0451-B0460"
+  ],
+  [
+    "Nocturnean",
+    "夜曲星号",
+    "A0451-B0462"
+  ],
+  [
+    "Strength of Xavier",
+    "泽维尔之力号",
+    "A0451-B0464"
+  ],
+  [
+    "Vulcanus",
+    "火神号",
+    "A0451-B0466"
+  ],
+  [
+    "Nocturne's Hammer",
+    "夜曲星之锤号",
+    "A0451-B0468"
+  ],
+  [
+    "Gravius",
+    "格拉维斯",
+    "A0451-B0482"
+  ],
+  [
+    "Atok Abidemi",
+    "阿托克·阿比德米",
+    "A0451-B0487"
+  ],
+  [
+    "Sol Ba'ken",
+    "索尔·巴’肯 - 第七连队连长",
+    "A0451-B0494"
+  ],
+  [
+    "Dak'ir",
+    "达克'尔",
+    "A0451-B0496"
+  ],
+  [
+    "Elysius",
+    "伊莱修斯",
+    "A0451-B0500"
+  ],
+  [
+    "Fugis",
+    "福吉斯 - 药剂师",
+    "A0451-B0502"
+  ],
+  [
+    "Pellas Mir'san",
+    "佩拉斯·米尔’杉 - 第二连队的连长，寒冬之刃，夜曲星卫士",
+    "A0451-B0504"
+  ],
+  [
+    "Pyriel",
+    "派瑞尔",
+    "A0451-B0506"
+  ],
+  [
+    "Tsu'Gan",
+    "苏’甘 - 老兵军士",
+    "A0451-B0508"
+  ],
+  [
+    "Forgefathers",
+    "铸造之父",
+    "A0451-B0517"
+  ],
+  [
+    "Pyre Guard",
+    "烈焰守卫",
+    "A0451-B0526"
+  ],
+  [
+    "Vulkan Dir'san",
+    "伏尔甘·迪尔桑",
+    "A0452-B0011"
+  ],
+  [
+    "Firedrake Terminator",
+    "火龙终结者",
+    "A0453-B0004"
+  ],
+  [
+    "Firedrake during the Horus Heresy",
+    "荷鲁斯叛乱期间的火龙",
+    "A0453-B0009"
+  ],
+  [
+    "Salamanders Pyroclast",
+    "火蜥蜴焚火者",
+    "A0454-B0007"
+  ],
+  [
+    "Sanctifier",
+    "净化者",
+    "A0455-B0004"
+  ],
+  [
+    "Pre-Corax XIXth Legionnaire",
+    "科拉克斯回归前十九军团士兵",
+    "A0456-B0035"
+  ],
+  [
+    "Doctrine and Record",
+    "学说与记录",
+    "A0456-B0044"
+  ],
+  [
+    "Pre-Heresy Raven Guard Sergeant",
+    "叛乱前暗鸦守卫军士",
+    "A0456-B0048"
+  ],
+  [
+    "Drop Assault on Istvaan V",
+    "伊斯塔万五号登陆点突击",
+    "A0456-B0090"
+  ],
+  [
+    "Space Skirmishes in the Istvaan-System",
+    "伊斯塔万星系太空遭遇战",
+    "A0456-B0091"
+  ],
+  [
+    "Perditum Incursion",
+    "迷失入侵",
+    "A0456-B0092"
+  ],
+  [
+    "Attack on Word Bearers Communication Outpost",
+    "袭击怀言者通信前哨",
+    "A0456-B0093"
+  ],
+  [
+    "Assault on The Perfect Fortress",
+    "完美堡垒突击",
+    "A0456-B0095"
+  ],
+  [
+    "The liberation of Scarato",
+    "解放斯卡拉托",
+    "A0456-B0097"
+  ],
+  [
+    "The liberation of Carandiru",
+    "解放卡兰迪鲁",
+    "A0456-B0100"
+  ],
+  [
+    "The Ydursk Incident",
+    "伊杜尔斯克事件",
+    "A0456-B0105"
+  ],
+  [
+    "The Halting of Vramon Muster",
+    "阻止弗拉蒙集结",
+    "A0456-B0106"
+  ],
+  [
+    "Horus Heresy Aftermath",
+    "荷鲁斯叛乱余波",
+    "A0456-B0112"
+  ],
+  [
+    "Raven Guard Space Marine",
+    "暗鸦守卫星际战士",
+    "A0456-B0118"
+  ],
+  [
+    "Battle of Bastior",
+    "巴斯蒂奥之战",
+    "A0456-B0173"
+  ],
+  [
+    "Other Domains",
+    "其他领地",
+    "A0456-B0190"
+  ],
+  [
+    "The Sable Brand",
+    "黑色烙印",
+    "A0456-B0200"
+  ],
+  [
+    "Culture and combat doctrine",
+    "文化与战斗学说",
+    "A0456-B0205"
+  ],
+  [
+    "Shadowmasters",
+    "暗影大师",
+    "A0456-B0219"
+  ],
+  [
+    "Raven Guard battle the Tau",
+    "暗鸦守卫与钛战斗",
+    "A0456-B0223"
+  ],
+  [
+    "Moritait Protocol",
+    "死亡战术协议",
+    "A0456-B0224"
+  ],
+  [
+    "Culture and Traditions",
+    "文化与传统",
+    "A0456-B0227"
+  ],
+  [
+    "Treatment of the Dead",
+    "遗体处置",
+    "A0456-B0243"
+  ],
+  [
+    "Chapters",
+    "战团",
+    "A0456-B0261"
+  ],
+  [
+    "Master of Shadows",
+    "暗影之主",
+    "A0456-B0298"
+  ],
+  [
+    "Reclusium",
+    "隐修室",
+    "A0456-B0303"
+  ],
+  [
+    "Jolaran Tael",
+    "乔拉兰·泰尔",
+    "A0456-B0305"
+  ],
+  [
+    "Taalis Shraek",
+    "塔里斯·沙耶克",
+    "A0456-B0313"
+  ],
+  [
+    "Saar Laeron",
+    "萨尔·莱尔隆",
+    "A0456-B0321"
+  ],
+  [
+    "Techmarine Novitiates",
+    "新进科技战士",
+    "A0456-B0324"
+  ],
+  [
+    "Light Attack Vehicles",
+    "轻型攻击载具",
+    "A0456-B0329"
+  ],
+  [
+    "Aark Selleck",
+    "阿克·塞勒克",
+    "A0456-B0333"
+  ],
+  [
+    "Vynda Aason",
+    "温达·亚松",
+    "A0456-B0337"
+  ],
+  [
+    "Thunderhawk Gunships",
+    "雷鹰炮艇",
+    "A0456-B0342"
+  ],
+  [
+    "Shadow Captain",
+    "暗影连长",
+    "A0456-B0350"
+  ],
+  [
+    "Lord of Deliverance",
+    "拯救星领主",
+    "A0456-B0351"
+  ],
+  [
+    "Company Command Squad",
+    "连队指挥小队",
+    "A0456-B0353"
+  ],
+  [
+    "Shadow Captain Aajz Solari",
+    "暗影连长阿基兹·索拉里",
+    "A0456-B0365"
+  ],
+  [
+    "Master of Secrets",
+    "守密之主",
+    "A0456-B0366"
+  ],
+  [
+    "Shadow Captain Vordin Krayn",
+    "暗影连长沃丁·科莱恩",
+    "A0456-B0380"
+  ],
+  [
+    "Master of the Ambush",
+    "伏击大师",
+    "A0456-B0381"
+  ],
+  [
+    "Shadow Captain Vynda Aason",
+    "暗影连长温达·亚松",
+    "A0456-B0395"
+  ],
+  [
+    "Shadow Captain Aevar Qeld",
+    "暗影连长艾瓦尔·奎德",
+    "A0456-B0410"
+  ],
+  [
+    "Master of Truth",
+    "真言之主",
+    "A0456-B0411"
+  ],
+  [
+    "Shadow Captain Sard Gaeron",
+    "暗影连长萨德·加隆",
+    "A0456-B0426"
+  ],
+  [
+    "Master of Liberation",
+    "解放之主",
+    "A0456-B0427"
+  ],
+  [
+    "Shadow Captain Oras Brael",
+    "暗影连长奥拉斯·布雷尔",
+    "A0456-B0438"
+  ],
+  [
+    "Master of Lies",
+    "谎言之主",
+    "A0456-B0439"
+  ],
+  [
+    "Shadow Captain Reszasz Krevaan",
+    "暗影连长雷斯扎·克雷万",
+    "A0456-B0452"
+  ],
+  [
+    "Shadow Captain Vos Delorn",
+    "暗影连长沃斯·德朗",
+    "A0456-B0465"
+  ],
+  [
+    "Shadow Captain Kalae Korvydae",
+    "暗影连长卡莱·卡尔维戴",
+    "A0456-B0478"
+  ],
+  [
+    "Scout Bike Squads",
+    "侦察摩托小队",
+    "A0456-B0487"
+  ],
+  [
+    "Company Information",
+    "连队信息",
+    "A0456-B0490"
+  ],
+  [
+    "Stealth Modifications",
+    "隐形改装",
+    "A0456-B0525"
+  ],
+  [
+    "Raven Guard Reiver",
+    "暗鸦守卫掠夺者",
+    "A0456-B0531"
+  ],
+  [
+    "Noted Elements of the Raven Guard",
+    "著名暗鸦守卫成员",
+    "A0456-B0540"
+  ],
+  [
+    "Raven's Talons",
+    "渡鸦之爪",
+    "A0456-B0542"
+  ],
+  [
+    "Shadow of the Emperor",
+    "帝皇之影号",
+    "A0456-B0544"
+  ],
+  [
+    "Sins of the Lost",
+    "迷失之罪号",
+    "A0456-B0546"
+  ],
+  [
+    "Wings of Deliverance",
+    "拯救之翼号",
+    "A0456-B0548"
+  ],
+  [
+    "Stormshadow",
+    "风暴暗影号",
+    "A0456-B0550"
+  ],
+  [
+    "Sable Talon",
+    "黑爪",
+    "A0456-B0553"
+  ],
+  [
+    "Silent Slayer",
+    "寂静杀手 - 风暴爪炮艇",
+    "A0456-B0555"
+  ],
+  [
+    "Umbra Scion",
+    "影裔",
+    "A0456-B0557"
+  ],
+  [
+    "Unmerciful Disaster",
+    "无情灾祸号",
+    "A0456-B0559"
+  ],
+  [
+    "Corvus Corax",
+    "科沃斯·科拉克斯",
+    "A0456-B0563"
+  ],
+  [
+    "Korvydae",
+    "卡尔维戴",
+    "A0456-B0598"
+  ],
+  [
+    "Unique Troops & Vehicles",
+    "独特部队&载具",
+    "A0456-B0602"
+  ],
+  [
+    "Raptor (Heresy-era)",
+    "猛禽（叛乱时期）",
+    "A0456-B0603"
+  ],
+  [
+    "Shadow Wardens (Heresy-era)",
+    "暗影守望（叛乱时期）",
+    "A0456-B0604"
+  ],
+  [
+    "Dark Fury (Heresy-era)",
+    "黑暗狂怒（叛乱时期）",
+    "A0456-B0606"
+  ],
+  [
+    "Whispercutter (Heresy-era)",
+    "低语切割者（叛乱时期）",
+    "A0456-B0607"
+  ],
+  [
+    "Darkwing (Heresy-era)",
+    "暗翼（叛乱时期）",
+    "A0456-B0608"
+  ],
+  [
+    "Deliverers (Heresy-era)",
+    "拯救者（叛乱时期）",
+    "A0456-B0609"
+  ],
+  [
+    "Shadow Bird (Heresy-era)",
+    "暗影鸟（叛乱时期）",
+    "A0456-B0610"
+  ],
+  [
+    "Symphalia Class Warp Runner",
+    "辛法利亚级亚空间跑者",
+    "A0456-B0611"
+  ],
+  [
+    "Deliverer Squad",
+    "拯救者小队",
+    "A0457-B0007"
+  ],
+  [
+    "Beyar Kedron",
+    "贝亚尔·凯德伦 - 百夫长",
+    "A0457-B0016"
+  ],
+  [
+    "Caeden",
+    "凯登 - 拯救者之首",
+    "A0457-B0018"
+  ],
+  [
+    "Heklan",
+    "赫克兰",
+    "A0457-B0022"
+  ],
+  [
+    "Shadow Wardens squad",
+    "暗影守望小队",
+    "A0458-B0007"
+  ],
+  [
+    "Mor Deythan Strike Squad",
+    "摩尔戴斯打击小队",
+    "A0459-B0007"
+  ],
+  [
+    "Aevar Qeld",
+    "艾瓦尔·奎德",
+    "A0459-B0013"
+  ],
+  [
+    "Illith",
+    "伊利斯",
+    "A0459-B0015"
+  ],
+  [
+    "Mordren",
+    "莫德伦",
+    "A0459-B0017"
+  ],
+  [
+    "Artarix",
+    "阿塔里克斯",
+    "A0459-B0019"
+  ],
+  [
+    "Dark Fury",
+    "黑暗狂怒",
+    "A0460-B0004"
+  ],
+  [
+    "Dark Fury warrior",
+    "黑暗狂怒战士",
+    "A0460-B0008"
+  ],
+  [
+    "Deathwatch Marine (Space Wolves)",
+    "死亡守望战士（太空野狼）",
+    "A0462-B0027"
+  ],
+  [
+    "Deathwatch Veteran",
+    "死亡守望老兵",
+    "A0462-B0038"
+  ],
+  [
+    "Deathwatch forces battle Genestealers",
+    "死亡守望部队与基因窃取者战斗",
+    "A0462-B0044"
+  ],
+  [
+    "Deathwatch battle Eldar",
+    "死亡守望与灵族作战",
+    "A0462-B0108"
+  ],
+  [
+    "Deathwatch ranks and positions",
+    "死亡守望等级与职责",
+    "A0462-B0127"
+  ],
+  [
+    "Watch Master",
+    "守望大师",
+    "A0462-B0130"
+  ],
+  [
+    "Watch Captain",
+    "守望连长",
+    "A0462-B0131"
+  ],
+  [
+    "Watch Lieutenant",
+    "守望副官",
+    "A0462-B0132"
+  ],
+  [
+    "Deathwatch Chaplain",
+    "死亡守望教士",
+    "A0462-B0133"
+  ],
+  [
+    "Deathwatch Apothecary",
+    "死亡守望药剂师",
+    "A0462-B0134"
+  ],
+  [
+    "Deathwatch Librarian",
+    "死亡守望智库员",
+    "A0462-B0135"
+  ],
+  [
+    "Deathwatch Epistolary",
+    "死亡守望星语官",
+    "A0462-B0136"
+  ],
+  [
+    "Deathwatch Techmarine",
+    "死亡守望科技战士",
+    "A0462-B0137"
+  ],
+  [
+    "Deathwatch Forge Master",
+    "死亡守望铸造大师",
+    "A0462-B0138"
+  ],
+  [
+    "Castellan of the Black Vault",
+    "黑库堡主",
+    "A0462-B0139"
+  ],
+  [
+    "Deathwatch Dreadnought",
+    "死亡守望无畏机甲",
+    "A0462-B0140"
+  ],
+  [
+    "Deathwatch Keeper",
+    "死亡守望守护者",
+    "A0462-B0141"
+  ],
+  [
+    "Deathwatch Champion",
+    "死亡守望冠军",
+    "A0462-B0142"
+  ],
+  [
+    "Deathwatch First Company Veteran",
+    "死亡守望第一连队老兵",
+    "A0462-B0143"
+  ],
+  [
+    "Deathwatch Kill-marine",
+    "死亡守望杀戮战士",
+    "A0462-B0146"
+  ],
+  [
+    "Deathwatch Black Shield",
+    "死亡守望黑盾",
+    "A0462-B0147"
+  ],
+  [
+    "Tactical Marine",
+    "战术战士",
+    "A0462-B0148"
+  ],
+  [
+    "Assault Marine",
+    "突击战士",
+    "A0462-B0149"
+  ],
+  [
+    "Devastator Marine",
+    "破坏者战士",
+    "A0462-B0150"
+  ],
+  [
+    "Elminator Squad",
+    "歼灭者小队",
+    "A0462-B0159"
+  ],
+  [
+    "Deathwatch battles Orks",
+    "死亡守望与欧克作战",
+    "A0462-B0163"
+  ],
+  [
+    "Imperial Navy Pilots",
+    "帝国海军飞行员",
+    "A0462-B0168"
+  ],
+  [
+    "Eye of Retribution",
+    "报复之眼号",
+    "A0462-B0177"
+  ],
+  [
+    "Fatal Redress",
+    "致命补救号",
+    "A0462-B0179"
+  ],
+  [
+    "Final Mercy",
+    "最终仁慈号",
+    "A0462-B0181"
+  ],
+  [
+    "Hallowed Sword",
+    "圣剑号",
+    "A0462-B0183"
+  ],
+  [
+    "Lance of Darkness",
+    "黑暗长枪号",
+    "A0462-B0185"
+  ],
+  [
+    "Pyre Imperius",
+    "帝国柴薪号",
+    "A0462-B0189"
+  ],
+  [
+    "Robidoux",
+    "罗比杜号",
+    "A0462-B0191"
+  ],
+  [
+    "Spear of Fury",
+    "愤怒之矛号",
+    "A0462-B0195"
+  ],
+  [
+    "Thunder’s Word",
+    "雷霆之语号",
+    "A0462-B0197"
+  ],
+  [
+    "Wrathbringer",
+    "愤怒使者号",
+    "A0462-B0199"
+  ],
+  [
+    "The Fearless",
+    "无畏者",
+    "A0462-B0201"
+  ],
+  [
+    "Kill Team Artemis",
+    "阿尔忒弥斯杀戮小队",
+    "A0462-B0202"
+  ],
+  [
+    "Kill Team Cassius",
+    "卡西乌斯杀戮小队",
+    "A0462-B0203"
+  ],
+  [
+    "Kill Team Azkarael",
+    "阿扎瑞尔杀戮小队",
+    "A0462-B0204"
+  ],
+  [
+    "Kill Team Brontos",
+    "布朗托斯杀戮小队",
+    "A0462-B0205"
+  ],
+  [
+    "Kill Team Talon",
+    "利爪杀戮小队",
+    "A0462-B0207"
+  ],
+  [
+    "Kill Team Vorens",
+    "沃伦斯杀戮小队",
+    "A0462-B0208"
+  ],
+  [
+    "Squad Veridium",
+    "维瑞迪姆小队",
+    "A0462-B0209"
+  ],
+  [
+    "Deathwatch Forces",
+    "死亡守望部队",
+    "A0462-B0211"
+  ],
+  [
+    "Watch Commanders",
+    "守望指挥官",
+    "A0462-B0212"
+  ],
+  [
+    "Gideon Borleos",
+    "吉迪恩·博莱奥斯",
+    "A0462-B0215"
+  ],
+  [
+    "Valesnus",
+    "瓦莱斯诺斯",
+    "A0462-B0216"
+  ],
+  [
+    "Mordelai of the Imperial Fists",
+    "帝国之拳的莫迪莱",
+    "A0462-B0217"
+  ],
+  [
+    "Alathresis of the Novamarines",
+    "新星战士的阿拉斯瑞斯",
+    "A0462-B0218"
+  ],
+  [
+    "Feron",
+    "费龙",
+    "A0462-B0220"
+  ],
+  [
+    "Utorian Denash",
+    "乌托里安·迪纳什",
+    "A0462-B0221"
+  ],
+  [
+    "Vaedrian Shenol",
+    "韦德里安·谢诺",
+    "A0462-B0222"
+  ],
+  [
+    "Vilnus",
+    "维尔纽斯",
+    "A0462-B0223"
+  ],
+  [
+    "Lothar Redfang",
+    "洛萨·红牙 - 太空野狼",
+    "A0462-B0232"
+  ],
+  [
+    "Captain Daxis",
+    "连长达西斯",
+    "A0462-B0234"
+  ],
+  [
+    "Captain Alessio Cortez",
+    "连长阿莱西奥·科尔特斯 - 冲锋大师，近乎无敌的第四连队连长",
+    "A0462-B0235"
+  ],
+  [
+    "Esteban de Dominova",
+    "埃斯特万·德·多米诺万",
+    "A0462-B0237"
+  ],
+  [
+    "Kail Vibius",
+    "凯尔·维比乌斯",
+    "A0462-B0239"
+  ],
+  [
+    "Andar Scarion",
+    "安达尔·斯凯瑞恩",
+    "A0462-B0240"
+  ],
+  [
+    "Marius Avincus",
+    "马里乌斯·阿文科斯",
+    "A0462-B0241"
+  ],
+  [
+    "Peratos",
+    "佩拉托斯",
+    "A0462-B0242"
+  ],
+  [
+    "Holgjar Ironfang of the Space Wolves",
+    "太空野狼的霍尔加尔·铁牙",
+    "A0462-B0244"
+  ],
+  [
+    "Deathwatch Space Marine",
+    "死亡守望星际战士",
+    "A0462-B0246"
+  ],
+  [
+    "Librarians",
+    "智库员",
+    "A0462-B0247"
+  ],
+  [
+    "Librarian Ashok of the Angels Sanguine",
+    "鲜血天使的智库员阿肖克",
+    "A0462-B0248"
+  ],
+  [
+    "Librarian Shaidan of the Mantis Warriors",
+    "螳螂勇士的智库员沙伊丹",
+    "A0462-B0249"
+  ],
+  [
+    "Librarian Andreas",
+    "智库员安德烈亚斯",
+    "A0462-B0252"
+  ],
+  [
+    "Epistolary Zadkiel",
+    "星语官扎德基尔",
+    "A0462-B0253"
+  ],
+  [
+    "Codicier Velim",
+    "典记员维林",
+    "A0462-B0255"
+  ],
+  [
+    "Codicier Kaelar of the Celestial Lions",
+    "天狮的典记员凯拉",
+    "A0462-B0256"
+  ],
+  [
+    "Chaplain Broec of the Black Templars",
+    "黑色圣堂的教士布罗克",
+    "A0462-B0257"
+  ],
+  [
+    "Ortan Cassius of the Ultramarines",
+    "极限战士的奥坦·卡西乌斯",
+    "A0462-B0258"
+  ],
+  [
+    "Idemon",
+    "艾迪蒙",
+    "A0462-B0259"
+  ],
+  [
+    "Brother Vigilant",
+    "维吉兰特兄弟",
+    "A0462-B0260"
+  ],
+  [
+    "Kregor Thann",
+    "克雷戈尔·坦恩",
+    "A0462-B0262"
+  ],
+  [
+    "Dreadnought Chyron of the Lamenters",
+    "恸哭者的无畏机甲凯隆",
+    "A0462-B0263"
+  ],
+  [
+    "Dreadnought Szobczak of the Imperial Fists",
+    "帝国之拳的无畏机甲斯佐贝扎克",
+    "A0462-B0264"
+  ],
+  [
+    "Dreadnought Nihilus",
+    "无畏机甲尼希勒斯",
+    "A0462-B0265"
+  ],
+  [
+    "Dreadnought Xandor",
+    "无畏机甲赞多尔",
+    "A0462-B0266"
+  ],
+  [
+    "Deathwatch Scout (Raven Guard)",
+    "死亡守望侦察兵（暗鸦守卫）",
+    "A0462-B0268"
+  ],
+  [
+    "Others",
+    "其他",
+    "A0462-B0269"
+  ],
+  [
+    "Sergeant Gjunheim",
+    "军士格琼海姆",
+    "A0462-B0272"
+  ],
+  [
+    "Sergeant Soron of the Mantis Warriors",
+    "螳螂勇士的军士索伦",
+    "A0462-B0273"
+  ],
+  [
+    "Sergeant Pasanius of the Ultramarines",
+    "极限战士的军士帕萨尼乌斯",
+    "A0462-B0274"
+  ],
+  [
+    "Sergeant Crull of the Flesh Tearers",
+    "撕肉者的军士克鲁尔",
+    "A0462-B0275"
+  ],
+  [
+    "Sergeant Galatael of the Blood Angels",
+    "圣血天使的军士加拉泰",
+    "A0462-B0276"
+  ],
+  [
+    "Brother Neleus of the White Consuls",
+    "白色执政官的奈琉斯兄弟",
+    "A0462-B0283"
+  ],
+  [
+    "Brother Trythios of the Blood Ravens",
+    "血鸦的特里西奥斯兄弟",
+    "A0462-B0284"
+  ],
+  [
+    "Brother Vael Donatus of the Ultramarines",
+    "极限战士的瓦尔·多纳图斯兄弟",
+    "A0462-B0287"
+  ],
+  [
+    "Brother Garran Branatar of the Salamanders",
+    "火蜥蜴的加兰·布拉纳塔尔兄弟",
+    "A0462-B0289"
+  ],
+  [
+    "Brother Darrion Rauth of the Exorcists",
+    "驱魔者的达里恩·劳斯兄弟",
+    "A0462-B0292"
+  ],
+  [
+    "Brother Henghast of the Space Wolves",
+    "太空野狼的恒哈斯特兄弟",
+    "A0462-B0295"
+  ],
+  [
+    "Brother Alric",
+    "奥瑞克兄弟",
+    "A0462-B0297"
+  ],
+  [
+    "Brother Tiberius of the Ultramarines",
+    "极限战士的提比略兄弟",
+    "A0462-B0305"
+  ],
+  [
+    "Brother Izrafel of the Flesh Tearers",
+    "撕肉者的伊斯拉菲尔兄弟",
+    "A0462-B0306"
+  ],
+  [
+    "Brother Lyone of the Novamarines",
+    "新星战士的里昂兄弟",
+    "A0462-B0307"
+  ],
+  [
+    "Brother Pharanos",
+    "法拉诺斯兄弟",
+    "A0462-B0308"
+  ],
+  [
+    "Brother Ruinus of the Mantis Warriors",
+    "螳螂勇士的鲁伊纳斯兄弟",
+    "A0462-B0309"
+  ],
+  [
+    "Deathwatch Watch Captain",
+    "死亡守望守望连长",
+    "A0463-B0007"
+  ],
+  [
+    "Deathwatch Watch Captain in Terminator Armour",
+    "身穿终结者护甲的死亡守望连长",
+    "A0463-B0037"
+  ],
+  [
+    "Azkarion",
+    "阿扎里翁",
+    "A0463-B0041"
+  ],
+  [
+    "Bannon",
+    "班农",
+    "A0463-B0042"
+  ],
+  [
+    "Barradan",
+    "巴拉丹",
+    "A0463-B0043"
+  ],
+  [
+    "Daxis",
+    "达西斯",
+    "A0463-B0044"
+  ],
+  [
+    "Denassio",
+    "德纳西奥",
+    "A0463-B0045"
+  ],
+  [
+    "Daox Glykas",
+    "道克斯·格莱卡斯",
+    "A0463-B0046"
+  ],
+  [
+    "Galesus",
+    "盖勒苏斯",
+    "A0463-B0048"
+  ],
+  [
+    "Ijasos",
+    "伊贾索斯",
+    "A0463-B0049"
+  ],
+  [
+    "Prium",
+    "普瑞姆",
+    "A0463-B0055"
+  ],
+  [
+    "Ska Mordentodt",
+    "斯卡·莫登托特",
+    "A0463-B0056"
+  ],
+  [
+    "Sephanor",
+    "塞法诺",
+    "A0463-B0057"
+  ],
+  [
+    "Holgjar Ironfang",
+    "霍尔加尔·铁牙",
+    "A0463-B0058"
+  ],
+  [
+    "Ghasubai",
+    "加苏拜",
+    "A0463-B0059"
+  ],
+  [
+    "Paragon of the Grey Knights",
+    "灰骑士典范",
+    "A0464-B0032"
+  ],
+  [
+    "War of the Beast",
+    "野兽战争",
+    "A0464-B0053"
+  ],
+  [
+    "First War for Armageddon",
+    "第一次阿玛吉多顿战争",
+    "A0464-B0060"
+  ],
+  [
+    "Noctis Aeterna",
+    "永恒之夜",
+    "A0464-B0065"
+  ],
+  [
+    "Other campaigns",
+    "其他战役",
+    "A0464-B0070"
+  ],
+  [
+    "Brotherhoods",
+    "兄弟会",
+    "A0464-B0126"
+  ],
+  [
+    "Hall of Champions",
+    "冠军大厅",
+    "A0464-B0129"
+  ],
+  [
+    "High Paladin Koiar Tempus",
+    "至高圣骑士科亚尔·坦帕斯",
+    "A0464-B0131"
+  ],
+  [
+    "Chamber of Purity",
+    "纯洁圣堂",
+    "A0464-B0135"
+  ],
+  [
+    "Castellan Garran Crowe",
+    "加兰·克罗堡主",
+    "A0464-B0137"
+  ],
+  [
+    "Steward of the Armoury",
+    "军械库统筹者",
+    "A0464-B0141"
+  ],
+  [
+    "Grand Master Vardan Kai",
+    "大导师瓦尔丹·凯",
+    "A0464-B0142"
+  ],
+  [
+    "Brother Captain Cadrig Pelenas",
+    "兄弟会连长卡德里格·佩莱纳斯",
+    "A0464-B0150"
+  ],
+  [
+    "Brotherhood Champion Feydor Ankhalas",
+    "兄弟会勇士费多·安卡拉斯",
+    "A0464-B0151"
+  ],
+  [
+    "Admiral of the Fleet",
+    "舰队元帅",
+    "A0464-B0160"
+  ],
+  [
+    "Grand Master Vorth Mordrak",
+    "大导师沃尔斯·莫德拉克",
+    "A0464-B0161"
+  ],
+  [
+    "Brother-Captain Arno Trevan",
+    "兄弟会连长阿诺·特里万",
+    "A0464-B0166"
+  ],
+  [
+    "Warden of the Librarius",
+    "智库守望者",
+    "A0464-B0176"
+  ],
+  [
+    "Grand Master Aldrik Voldus",
+    "大导师阿尔德里克·沃尔达斯",
+    "A0464-B0177"
+  ],
+  [
+    "Brother-Captain Arvann Stern",
+    "兄弟会连长艾维安·斯特恩",
+    "A0464-B0182"
+  ],
+  [
+    "Keeper of the Augurium",
+    "占卜殿守护者",
+    "A0464-B0192"
+  ],
+  [
+    "Grand Master Drystann Cromm (deceased)",
+    "大导师德里斯坦·克罗姆（已故）",
+    "A0464-B0193"
+  ],
+  [
+    "Brother-Captain Ionan Grud",
+    "兄弟会连长伊奥南·格鲁德",
+    "A0464-B0196"
+  ],
+  [
+    "Protector of the Sanctum Sanctorum",
+    "至圣所守护者",
+    "A0464-B0206"
+  ],
+  [
+    "Grand Master Rothwyr Morvans",
+    "大导师罗斯维尔·墨万斯",
+    "A0464-B0207"
+  ],
+  [
+    "Brother-Captain Tauros Hendron",
+    "兄弟会连长陶罗斯·亨德伦",
+    "A0464-B0210"
+  ],
+  [
+    "High Seneschal of the Fortress",
+    "要塞至高总管",
+    "A0464-B0220"
+  ],
+  [
+    "Grand Master Caddon Varn",
+    "大导师卡顿·瓦恩",
+    "A0464-B0221"
+  ],
+  [
+    "Brother-Captain Kerda Tannasek",
+    "兄弟会连长克尔达·坦纳塞克",
+    "A0464-B0224"
+  ],
+  [
+    "Inquisition Representative",
+    "审判庭代表",
+    "A0464-B0234"
+  ],
+  [
+    "Grand Master Covan Leorac",
+    "大导师科文·莱奥拉克",
+    "A0464-B0235"
+  ],
+  [
+    "Brother-Captain Darig Tegvar",
+    "兄弟会连长达里格·泰格瓦尔",
+    "A0464-B0238"
+  ],
+  [
+    "Knight Commander of the Recruits",
+    "新兵骑士指挥官",
+    "A0464-B0248"
+  ],
+  [
+    "Grand Master Aidan Perdron",
+    "大导师艾丹·佩德隆",
+    "A0464-B0249"
+  ],
+  [
+    "Brother-Captain Mithrac Tor",
+    "兄弟会连长米思拉克·托尔",
+    "A0464-B0253"
+  ],
+  [
+    "Strike Force Calern",
+    "卡勒恩打击部队",
+    "A0464-B0262"
+  ],
+  [
+    "Knights of Crowe",
+    "克罗骑士",
+    "A0464-B0263"
+  ],
+  [
+    "The Emperor's Vengeance",
+    "帝皇的复仇",
+    "A0464-B0264"
+  ],
+  [
+    "Hierarchy",
+    "等级制度",
+    "A0464-B0265"
+  ],
+  [
+    "Grand Master",
+    "大导师",
+    "A0464-B0273"
+  ],
+  [
+    "Brother Captain",
+    "兄弟会连长",
+    "A0464-B0276"
+  ],
+  [
+    "Justicar",
+    "仲裁官",
+    "A0464-B0291"
+  ],
+  [
+    "Battle Brother",
+    "战斗兄弟",
+    "A0464-B0297"
+  ],
+  [
+    "Ferrymen",
+    "摆渡人",
+    "A0464-B0300"
+  ],
+  [
+    "Prognosticar",
+    "预言者",
+    "A0464-B0303"
+  ],
+  [
+    "Names",
+    "名称",
+    "A0464-B0318"
+  ],
+  [
+    "Grey Knights Weaponry",
+    "灰骑士武器",
+    "A0464-B0336"
+  ],
+  [
+    "Incinerator",
+    "焚化枪",
+    "A0464-B0341"
+  ],
+  [
+    "Psycannon",
+    "灵能炮",
+    "A0464-B0343"
+  ],
+  [
+    "Psilencer",
+    "灭灵武器",
+    "A0464-B0345"
+  ],
+  [
+    "Grey Knights Strike Cruiser",
+    "灰骑士打击巡洋舰",
+    "A0464-B0357"
+  ],
+  [
+    "Bright Sword",
+    "闪耀之剑号",
+    "A0464-B0361"
+  ],
+  [
+    "Emperor's Will",
+    "帝皇意志号",
+    "A0464-B0363"
+  ],
+  [
+    "Fire of Dawn",
+    "黎明之火号",
+    "A0464-B0365"
+  ],
+  [
+    "Redeemer of Souls",
+    "灵魂救赎者号",
+    "A0464-B0367"
+  ],
+  [
+    "Argent Sceptre",
+    "白银权杖号",
+    "A0464-B0369"
+  ],
+  [
+    "Righteous Dawn",
+    "正义黎明号",
+    "A0464-B0371"
+  ],
+  [
+    "Ruler of the Black Skies",
+    "黑空裁定者号",
+    "A0464-B0373"
+  ],
+  [
+    "Sword of Dione",
+    "狄俄涅之剑号",
+    "A0464-B0375"
+  ],
+  [
+    "Unrelenting",
+    "无情号",
+    "A0464-B0377"
+  ],
+  [
+    "Titan's Hand",
+    "泰坦之手号",
+    "A0464-B0379"
+  ],
+  [
+    "Blade's Fall",
+    "剑刃之陨号",
+    "A0464-B0381"
+  ],
+  [
+    "Flawless Reprieve",
+    "无暇缓刑号",
+    "A0464-B0383"
+  ],
+  [
+    "Glaive of Janus",
+    "雅努斯长刀号",
+    "A0464-B0385"
+  ],
+  [
+    "Karabela",
+    "卡拉贝拉号",
+    "A0464-B0387"
+  ],
+  [
+    "Kaskara",
+    "卡斯卡拉号",
+    "A0464-B0389"
+  ],
+  [
+    "Titanicus Rex",
+    "泰坦君王号",
+    "A0464-B0391"
+  ],
+  [
+    "Blade's Peace",
+    "刀锋和平号",
+    "A0464-B0393"
+  ],
+  [
+    "The Strident",
+    "强硬号",
+    "A0464-B0395"
+  ],
+  [
+    "Draigo's Wings",
+    "迪亚哥之翼号",
+    "A0464-B0398"
+  ],
+  [
+    "Kodachi",
+    "小太刀号",
+    "A0464-B0400"
+  ],
+  [
+    "Longsword",
+    "长剑号",
+    "A0464-B0402"
+  ],
+  [
+    "Purgation's Sword",
+    "净化之剑号",
+    "A0464-B0404"
+  ],
+  [
+    "Talwar",
+    "弯刀号",
+    "A0464-B0406"
+  ],
+  [
+    "Janus",
+    "雅努斯",
+    "A0464-B0410"
+  ],
+  [
+    "Khyron",
+    "凯戎",
+    "A0464-B0412"
+  ],
+  [
+    "Epimetheus",
+    "厄庇墨透斯",
+    "A0464-B0414"
+  ],
+  [
+    "Koios",
+    "科俄斯 - 大导师。灰骑士的创始成员之一",
+    "A0464-B0416"
+  ],
+  [
+    "Ogen",
+    "奥根 - 大导师。灰骑士的创始成员之一",
+    "A0464-B0418"
+  ],
+  [
+    "Satre",
+    "萨彻 - 大导师。灰骑士的创始成员之一",
+    "A0464-B0420"
+  ],
+  [
+    "Yotun",
+    "尤顿 - 大导师。灰骑士的创始成员之一",
+    "A0464-B0424"
+  ],
+  [
+    "Geronitan",
+    "杰罗尼坦",
+    "A0464-B0429"
+  ],
+  [
+    "Vorth Mordrak",
+    "沃尔斯·莫德拉克",
+    "A0464-B0433"
+  ],
+  [
+    "Mandulis",
+    "曼杜利斯",
+    "A0464-B0435"
+  ],
+  [
+    "Joros",
+    "乔洛斯",
+    "A0464-B0437"
+  ],
+  [
+    "Drystann Cromm",
+    "德里斯坦·克罗姆",
+    "A0464-B0439"
+  ],
+  [
+    "Vardan Kai",
+    "瓦尔丹·凯",
+    "A0464-B0441"
+  ],
+  [
+    "Orias",
+    "欧里亚斯",
+    "A0464-B0443"
+  ],
+  [
+    "Regis Vortimer",
+    "雷吉斯·沃蒂默",
+    "A0464-B0445"
+  ],
+  [
+    "Astura",
+    "阿斯图拉",
+    "A0464-B0449"
+  ],
+  [
+    "Taremar Aurellian",
+    "塔雷玛·奥瑞利安",
+    "A0464-B0451"
+  ],
+  [
+    "Caddon Varn",
+    "卡顿·瓦恩",
+    "A0464-B0453"
+  ],
+  [
+    "Ceasarian",
+    "西泽里安",
+    "A0464-B0455"
+  ],
+  [
+    "Edeon",
+    "艾登",
+    "A0464-B0457"
+  ],
+  [
+    "Issad",
+    "伊萨德",
+    "A0464-B0461"
+  ],
+  [
+    "Neodan",
+    "纽丹",
+    "A0464-B0463"
+  ],
+  [
+    "Zaebus",
+    "泽巴斯",
+    "A0464-B0467"
+  ],
+  [
+    "Alaric",
+    "阿拉里克",
+    "A0464-B0471"
+  ],
+  [
+    "Aelos",
+    "埃洛斯",
+    "A0464-B0473"
+  ],
+  [
+    "Hyperion",
+    "许珀里翁",
+    "A0464-B0475"
+  ],
+  [
+    "Leodegarius",
+    "莱奥德加里乌斯",
+    "A0464-B0477"
+  ],
+  [
+    "Graucis Telomane",
+    "格劳西斯·泰洛迈恩",
+    "A0464-B0479"
+  ],
+  [
+    "Aldred",
+    "奥尔德雷德",
+    "A0464-B0481"
+  ],
+  [
+    "Umbrane",
+    "翁布兰",
+    "A0464-B0483"
+  ],
+  [
+    "Phlegyras",
+    "法雷格拉斯",
+    "A0464-B0485"
+  ],
+  [
+    "Dvorik",
+    "德沃瑞克 - 圣骑士",
+    "A0464-B0487"
+  ],
+  [
+    "Calastan",
+    "卡拉斯坦",
+    "A0465-B0013"
+  ],
+  [
+    "Grey Knights Brother-Captain",
+    "灰骑士兄弟会连长",
+    "A0467-B0007"
+  ],
+  [
+    "Aldar the Bold",
+    "大胆者阿尔达尔",
+    "A0467-B0013"
+  ],
+  [
+    "Caesarian",
+    "西泽里安",
+    "A0467-B0016"
+  ],
+  [
+    "Markhus",
+    "马尔库斯",
+    "A0467-B0020"
+  ],
+  [
+    "Reed Vanar",
+    "里德·范纳",
+    "A0467-B0022"
+  ],
+  [
+    "Nicolas Stephanus",
+    "尼古拉斯·斯特凡努斯",
+    "A0467-B0024"
+  ],
+  [
+    "Adeptus Administratum symbol",
+    "内政部标志",
+    "A0469-B0004"
+  ],
+  [
+    "Adept of the Administratum",
+    "内政部专员",
+    "A0469-B0019"
+  ],
+  [
+    "Divisions of the Administratum",
+    "内政部的部门",
+    "A0469-B0025"
+  ],
+  [
+    "The Departmento Munitorum",
+    "军务部 - 监督帝国卫队的大规模后勤和管理",
+    "A0469-B0030"
+  ],
+  [
+    "The Departmento Exacta",
+    "计校部",
+    "A0469-B0032"
+  ],
+  [
+    "The Estate Imperium",
+    "档案部 - 记录保存部门",
+    "A0469-B0034"
+  ],
+  [
+    "The Historical Revision Unit",
+    "修史部 - 修订可能“颠覆”帝国统治的历史记录",
+    "A0469-B0036"
+  ],
+  [
+    "The Departmento Colonia",
+    "殖民部 - 处理行星殖民问题",
+    "A0469-B0040"
+  ],
+  [
+    "The Logis Strategos",
+    "情报部 - 情报和威胁分析机构",
+    "A0469-B0042"
+  ],
+  [
+    "The Officio Assassinorum",
+    "刺客庭 - 秘密暗杀组织",
+    "A0469-B0044"
+  ],
+  [
+    "The Officio Sabatorum",
+    "破袭庭 - 破坏和其他间谍活动",
+    "A0469-B0046"
+  ],
+  [
+    "The Officio Agricultae",
+    "农务庭 - 食品管理机构",
+    "A0469-B0048"
+  ],
+  [
+    "The Officio Medicae",
+    "医疗部",
+    "A0469-B0050"
+  ],
+  [
+    "The Ordo Tempestus",
+    "暴风修会 - 精英军事力量，包括风暴忠嗣军和政委",
+    "A0469-B0052"
+  ],
+  [
+    "The Officio Logisticarum",
+    "后勤庭 - 监督不屈远征的后勤机构",
+    "A0469-B0054"
+  ],
+  [
+    "The Departmento of Final Consideration",
+    "终虑部 - 管理来自其他帝国世界的各种援助请求",
+    "A0469-B0058"
+  ],
+  [
+    "The Departmento Processium",
+    "流程部 - 处理文书工作",
+    "A0469-B0060"
+  ],
+  [
+    "The Departmento Contagio",
+    "传染部 - 研究传染病",
+    "A0469-B0062"
+  ],
+  [
+    "The Departmento Gradio",
+    "分级部",
+    "A0469-B0064"
+  ],
+  [
+    "The Astra Cartographica",
+    "星图会 - 星图绘制机构",
+    "A0469-B0066"
+  ],
+  [
+    "The Questio Logisticus",
+    "后勤问询部",
+    "A0469-B0068"
+  ],
+  [
+    "The Literati",
+    "文士 - 武装执法人员和保安",
+    "A0469-B0070"
+  ],
+  [
+    "Imperial Commanders",
+    "帝国指挥官",
+    "A0469-B0072"
+  ],
+  [
+    "Rogue Traders",
+    "行商浪人",
+    "A0469-B0073"
+  ],
+  [
+    "Ranks and titles of the Administratum",
+    "内政部的等级与头衔",
+    "A0469-B0074"
+  ],
+  [
+    "The Master of the Administratum",
+    "内政部之主",
+    "A0469-B0077"
+  ],
+  [
+    "The Master Logisticar",
+    "后勤部长 - 高级职位",
+    "A0469-B0079"
+  ],
+  [
+    "Ordinates",
+    "政员 - 低级行政官员",
+    "A0469-B0087"
+  ],
+  [
+    "Curators",
+    "典藏员",
+    "A0469-B0089"
+  ],
+  [
+    "Scribes",
+    "抄写员",
+    "A0469-B0091"
+  ],
+  [
+    "Ciphers",
+    "密员",
+    "A0469-B0093"
+  ],
+  [
+    "Menials",
+    "杂役",
+    "A0469-B0095"
+  ],
+  [
+    "Subordinates",
+    "属役",
+    "A0469-B0097"
+  ],
+  [
+    "Overwatcher Jedmund",
+    "监事杰德蒙德",
+    "A0473-B0006"
+  ],
+  [
+    "Scribum-Errant Nawra Nison",
+    "漂泊文士纳瓦拉·尼森",
+    "A0473-B0007"
+  ],
+  [
+    "Scribum Shaisha",
+    "文士沙伊莎",
+    "A0473-B0008"
+  ]
+]

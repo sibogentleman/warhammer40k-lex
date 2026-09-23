@@ -1,0 +1,11 @@
+{
+  "range": "0401-0475",
+  "reviewed": 75,
+  "edits": 1819,
+  "notes": 331,
+  "titles": 14,
+  "additions": 0,
+  "terms": 1082,
+  "errors": []
+}
+通过：范围、逐篇完成清单、数据类型、英文标题及混合英文长句保留、词表六列及同键冲突、Unicode。

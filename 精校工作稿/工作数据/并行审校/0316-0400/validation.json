@@ -1,0 +1,20 @@
+{
+  "range": [
+    316,
+    400
+  ],
+  "reviewed_count": 85,
+  "missing_articles": [],
+  "edits": 1599,
+  "notes": 295,
+  "titles": 14,
+  "additions": 32,
+  "term_rows": 273,
+  "invalid_edit_keys": [],
+  "invalid_note_keys": [],
+  "invalid_addition_keys": [],
+  "malformed_term_rows": [],
+  "source_unchanged": true,
+  "review_method": "按英文逐篇逐段人工语义校读；校毕检查中文补丁类型、专名一致性、编号覆盖与官方新译名。",
+  "latest_official_backscan": "回扫帝皇勇士/圣剑兄弟会修士/赫尔布雷彻/格里玛度斯/泰伦及基因窃取者新官译；172 Lictor系禁军侍从官未误替换。"
+}

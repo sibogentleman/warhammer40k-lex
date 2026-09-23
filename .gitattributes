@@ -1,0 +1,2 @@
+# Preserve exact bytes: exported files carry SHA-256 integrity records.
+* -text

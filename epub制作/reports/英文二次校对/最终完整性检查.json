@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "stats": {
+    "xhtml_files": 1604,
+    "local_href": 11119,
+    "external_href": 1682,
+    "articles": 1587,
+    "body_image_references": 4004,
+    "local_src": 4005,
+    "unique_embedded_original_images": 3917,
+    "original_source_files_unchanged": 19
+  },
+  "errors": [],
+  "unparsed_bold_markers": [],
+  "sha256": "c534e50b8cc62915e8509a6289c50791a00c31c289ca655f831414c8520cdf3e"
+}

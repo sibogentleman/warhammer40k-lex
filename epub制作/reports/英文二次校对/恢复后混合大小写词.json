@@ -1,0 +1,296 @@
+{
+  "counts": {
+    "McConnell": 1,
+    "McGriffin": 1,
+    "DeMartos": 1,
+    "DakkaDakka": 1,
+    "MaSade": 7,
+    "McNeill": 5,
+    "LaBray": 5,
+    "DuCade": 3,
+    "FreeKorps": 2,
+    "VanLeskus": 9,
+    "MacPherson": 1,
+    "ThoughtMark": 3,
+    "BattleMark": 1,
+    "VanShen": 1,
+    "DuCaine": 9,
+    "OccultBodyguards": 1,
+    "MkX": 2,
+    "MkIIIc": 4,
+    "MkVI": 3,
+    "NorthCol": 1,
+    "MkIV": 8,
+    "DeRall": 1,
+    "MkI": 5,
+    "DeKere": 1,
+    "shipsUnrelenting": 1,
+    "PanCrypta": 3,
+    "PanCon": 2,
+    "LeGantz": 1,
+    "ExMachinus": 1,
+    "DuGal": 5,
+    "ExclusioN": 1,
+    "HeliosHellgraceHephaesto": 1,
+    "LliaxLucius": 1,
+    "DeAniasie": 1,
+    "AuSs": 1,
+    "McIntyre": 1,
+    "McKenna": 1,
+    "McVey": 1,
+    "eBook": 2,
+    "MkVIII": 6,
+    "GuideSys": 1,
+    "MkV": 4,
+    "MkII": 23,
+    "MkVd": 2,
+    "EtaCarn": 1,
+    "MkIX": 1,
+    "SteG": 2,
+    "roadN": 3,
+    "MkIIc": 16,
+    "MkIb": 4,
+    "MkIc": 3,
+    "MkIII": 6,
+    "MarkIV": 1,
+    "MantletN": 1,
+    "MkIs": 2,
+    "MkIIb": 2,
+    "MkIId": 1,
+    "MkVII": 1
+  },
+  "examples": {
+    "McConnell": [
+      "EPUB/text/article-0024.xhtml",
+      "native to the world of Carlos McConnell."
+    ],
+    "McGriffin": [
+      "EPUB/text/article-0026.xhtml",
+      "McGriffin 麦格里芬"
+    ],
+    "DeMartos": [
+      "EPUB/text/article-0044.xhtml",
+      "Eurykidas DeMartos — saga-poet."
+    ],
+    "DakkaDakka": [
+      "EPUB/text/article-0047.xhtml",
+      "DakkaDakka forum user Makr stated in 2009 that the year"
+    ],
+    "MaSade": [
+      "EPUB/text/article-0054.xhtml",
+      "0th Expedition Fleet - Ireton MaSade (Lord Marshal) - Solar Auxilia - Took the Hi"
+    ],
+    "McNeill": [
+      "EPUB/text/article-0080.xhtml",
+      " Aaron Dembski-Bowden, Graham McNeill, James Swallow, Gav Thorpe, and Chris Wraigh"
+    ],
+    "LaBray": [
+      "EPUB/text/article-0081.xhtml",
+      "Admiral Ospheus LaBray 海军上将奥斯菲厄斯·拉·布雷"
+    ],
+    "DuCade": [
+      "EPUB/text/article-0081.xhtml",
+      "Admiral Athene DuCade 海军上将雅典娜·杜·凯德"
+    ],
+    "FreeKorps": [
+      "EPUB/text/article-0082.xhtml",
+      "Magdan FreeKorps 马丹自由军团"
+    ],
+    "VanLeskus": [
+      "EPUB/text/article-0097.xhtml",
+      "Necron forces and Fleetmaster VanLeskus was killed buying time for survivors to esca"
+    ],
+    "MacPherson": [
+      "EPUB/text/article-0165.xhtml",
+      "Navigator Houses of Granicus, MacPherson, and Ptolemy work exclusively for the Astra "
+    ],
+    "ThoughtMark": [
+      "EPUB/text/article-0168.xhtml",
+      "ThoughtMark - A symbolic sign-language that uses small g"
+    ],
+    "BattleMark": [
+      "EPUB/text/article-0168.xhtml",
+      "BattleMark - A symbolic sign-language used in combat. L"
+    ],
+    "VanShen": [
+      "EPUB/text/article-0169.xhtml",
+      "Thervillion VanShen — Master Astropath"
+    ],
+    "DuCaine": [
+      "EPUB/text/article-0185.xhtml",
+      "Amadeus DuCaine - Lord Commander of the Storm Walkers (Iron "
+    ],
+    "OccultBodyguards": [
+      "EPUB/text/article-0282.xhtml",
+      "Thousand Sons/Scarab OccultBodyguards for Thousand Sons Chaos Lords"
+    ],
+    "MkX": [
+      "EPUB/text/article-0303.xhtml",
+      "MkX Omnis Armour MkX全知型盔甲"
+    ],
+    "MkIIIc": [
+      "EPUB/text/article-0316.xhtml",
+      "Scylia — MkIIIc Damocles Command Rhino. Lost in action in th"
+    ],
+    "MkVI": [
+      "EPUB/text/article-0449.xhtml",
+      "MkVI Razorback attached to the Howling Griffons T"
+    ],
+    "NorthCol": [
+      "EPUB/text/article-0495.xhtml",
+      "Xance — NorthCol 2nd Enforcers"
+    ],
+    "MkIV": [
+      "EPUB/text/article-0549.xhtml",
+      " Sons wore the Achean Pattern MkIV Power Armour with distinctive helmets and sh"
+    ],
+    "DeRall": [
+      "EPUB/text/article-0557.xhtml",
+      "DeRall — Line Captain and Chief, during the Battle "
+    ],
+    "MkI": [
+      "EPUB/text/article-0602.xhtml",
+      "Ushotan wore MkI Power Armour, standard issue for the Thunder"
+    ],
+    "DeKere": [
+      "EPUB/text/article-0606.xhtml",
+      "Born in 198.M41, on DeKere's World. When he was 12, Gregor Eisenhorn wa"
+    ],
+    "shipsUnrelenting": [
+      "EPUB/text/article-0639.xhtml",
+      ", some scouts, as well as the shipsUnrelenting Fury, Sword of Caliban and Death of Mercy"
+    ],
+    "PanCrypta": [
+      "EPUB/text/article-0779.xhtml",
+      " defensive line manned by the PanCrypta Dust Clans, Solar Auxilia, and Nemesis Briga"
+    ],
+    "PanCon": [
+      "EPUB/text/article-0805.xhtml",
+      "Exigency Stratiotes 第403紧急军役团\nPanCon Fifth 潘科第五团\nRoyal Zanzibari Hort 王室桑给巴尔霍特\n46"
+    ],
+    "LeGantz": [
+      "EPUB/text/article-0834.xhtml",
+      "s Iconoclasts commander Major LeGantz launched a multi-pronged combined arms assau"
+    ],
+    "ExMachinus": [
+      "EPUB/text/article-0837.xhtml",
+      "e a missile from his flagship ExMachinus. The device exploded amidst the Necron fleet"
+    ],
+    "DuGal": [
+      "EPUB/text/article-0842.xhtml",
+      "Nakir, Chapter Master Yosharo DuGal, Chief Librarian Tigurius, Grand Master Ezek"
+    ],
+    "ExclusioN": [
+      "EPUB/text/article-0843.xhtml",
+      "what was dubbed the Star Dais ExclusioN Zone. He then instructed his best commanders"
+    ],
+    "HeliosHellgraceHephaesto": [
+      "EPUB/text/article-0864.xhtml",
+      "he Tau Empire's Fal'shia Sep. HeliosHellgraceHephaesto"
+    ],
+    "LliaxLucius": [
+      "EPUB/text/article-0864.xhtml",
+      "LliaxLucius - Obscurus"
+    ],
+    "DeAniasie": [
+      "EPUB/text/article-0982.xhtml",
+      "3.M30 by the Rogue Trader Hel DeAniasie. Not long afterwards, the system became a wa"
+    ],
+    "AuSs": [
+      "EPUB/text/article-1077.xhtml",
+      "Name:Calderis (AuSs-009)"
+    ],
+    "McIntyre": [
+      "EPUB/text/article-1087.xhtml",
+      "tyre IX (also known as Luther McIntyre IX) is a desert death world in Segmentum Tem"
+    ],
+    "McKenna": [
+      "EPUB/text/article-1111.xhtml",
+      "y Hough, Pete Knifton, Martin McKenna, Aly Morrison, Trish Morrison, Bob Naismith,"
+    ],
+    "McVey": [
+      "EPUB/text/article-1111.xhtml",
+      "hn Blanche, Colin Dixon, Mike McVey, Aly Morrison, Andy Pritchard and Sid"
+    ],
+    "eBook": [
+      "EPUB/text/article-1121.xhtml",
+      "ded in \"The Novels: Volume 3\" eBook collection. It is also the first book of the"
+    ],
+    "MkVIII": [
+      "EPUB/text/article-1149.xhtml",
+      "MkVIII Ultra Pattern: Used by the Red Scorpions"
+    ],
+    "GuideSys": [
+      "EPUB/text/article-1220.xhtml",
+      "opulated areas, the VXII Auto-GuideSys round excels. Fired at range the shell takes"
+    ],
+    "MkV": [
+      "EPUB/text/article-1221.xhtml",
+      "its appeal to many users. The MkV variant attempts to remedy this with its rap"
+    ],
+    "MkII": [
+      "EPUB/text/article-1248.xhtml",
+      " Sector, the Hesh-pattern M38 MkII was never widely adopted by the Departmento "
+    ],
+    "MkVd": [
+      "EPUB/text/article-1250.xhtml",
+      "The Accatran pattern MkVd heavy bolter is used by the 99th Elysian Dro"
+    ],
+    "EtaCarn": [
+      "EPUB/text/article-1292.xhtml",
+      "EtaCarn Plasma Beamer 埃特卡恩等离子光束枪"
+    ],
+    "MkIX": [
+      "EPUB/text/article-1422.xhtml",
+      "erance', MkVIII 'Avenger' and MkIX 'Voss' patterns."
+    ],
+    "SteG": [
+      "EPUB/text/article-1424.xhtml",
+      "SteG-4"
+    ],
+    "roadN": [
+      "EPUB/text/article-1433.xhtml",
+      "Max Speed - on roadN/A"
+    ],
+    "MkIIc": [
+      "EPUB/text/article-1465.xhtml",
+      "Dark Angels MkIIc Mars-Pattern Rhino APC 黑暗天使MkIIc火星型犀牛装甲运兵车"
+    ],
+    "MkIb": [
+      "EPUB/text/article-1465.xhtml",
+      "urviving Rhino pattern is the MkIb Mars Pattern, which was produced in such num"
+    ],
+    "MkIc": [
+      "EPUB/text/article-1465.xhtml",
+      "A variant of the MkIb, the MkIc or Deimos Pattern was the mainstay of the Le"
+    ],
+    "MkIII": [
+      "EPUB/text/article-1465.xhtml",
+      "MkIII Recovery Vehicle \"RV\" - A recovery vehicle v"
+    ],
+    "MarkIV": [
+      "EPUB/text/article-1488.xhtml",
+      "nt on the common Mars-pattern MarkIV-b Predator Destructor is the Syrtis pattern "
+    ],
+    "MantletN": [
+      "EPUB/text/article-1498.xhtml",
+      "Gun MantletN/A"
+    ],
+    "MkIs": [
+      "EPUB/text/article-1500.xhtml",
+      "re known to have thousands of MkIs, but they have been so modified by the Xenos"
+    ],
+    "MkIIb": [
+      "EPUB/text/article-1500.xhtml",
+      "MkIIb - With the side gun sponsons placed in front"
+    ],
+    "MkIId": [
+      "EPUB/text/article-1524.xhtml",
+      "Vehicle Name:MkIId Sanctorum pattern Exorcist"
+    ],
+    "MkVII": [
+      "EPUB/text/article-1569.xhtml",
+      "MkVII Space Marine Power Armour MkVII星际战士动力盔甲"
+    ]
+  }
+}

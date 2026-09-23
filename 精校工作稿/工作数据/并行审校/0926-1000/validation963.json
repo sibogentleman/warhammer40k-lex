@@ -1,0 +1,16 @@
+{
+  "scope": [
+    926,
+    963
+  ],
+  "reviewed_count": 38,
+  "edited_chinese_blocks": 502,
+  "notes": 120,
+  "coverage_complete": true,
+  "edited_english_blocks": 0,
+  "mixed_english_preserved": true,
+  "back_audit_changed_blocks": 85,
+  "pending_external_consistency": [],
+  "terminal_atlas_decision": "与971确认同一太空电梯，沿阿特拉斯航空站。",
+  "imperial_dungeon_audit": "805已为帝国地牢，无需回改；172飞升之门已统一。"
+}

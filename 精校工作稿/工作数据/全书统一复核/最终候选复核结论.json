@@ -1,0 +1,11 @@
+{
+  "full_book_articles": 1587,
+  "remaining_heuristic_flags": 7,
+  "unique_blocks": 3,
+  "unresolved_errors_in_these_flags": 0,
+  "decisions": {
+    "A0574-B0007": "兽人检索命中了Krork古兽人的词内片段；正文Orks已用欧克，简称无误。",
+    "A0574-B0226": "1985年限量模型原名Space Orc的历史称呼，不用后来的族群官名替换。",
+    "A0574-B0228": "同一历史模型Space Orc图注，保留太空兽人。"
+  }
+}

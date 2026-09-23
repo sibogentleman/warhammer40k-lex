@@ -1,0 +1,30 @@
+[
+  {
+    "title": "0263 科技战士 Techmarine",
+    "images": 5,
+    "broken": 0,
+    "overflows": false,
+    "originals": 27
+  },
+  {
+    "title": "0277 新兵大师 Master of the Recruits",
+    "images": 1,
+    "broken": 0,
+    "overflows": false,
+    "originals": 8
+  },
+  {
+    "title": "0292 仲裁者小队 Intercessor Squad",
+    "images": 5,
+    "broken": 0,
+    "overflows": false,
+    "originals": 20
+  },
+  {
+    "title": "0304 侦察兵 Scout",
+    "images": 5,
+    "broken": 0,
+    "overflows": false,
+    "originals": 31
+  }
+]

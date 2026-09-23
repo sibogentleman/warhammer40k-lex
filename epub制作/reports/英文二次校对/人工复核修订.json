@@ -1,0 +1,128 @@
+[
+  {
+    "number": 23,
+    "before": "everpresent",
+    "after": "ever-present",
+    "occurrences": 1
+  },
+  {
+    "number": 27,
+    "before": "mainhives",
+    "after": "main hives",
+    "occurrences": 1
+  },
+  {
+    "number": 53,
+    "before": "neverending",
+    "after": "never-ending",
+    "occurrences": 1
+  },
+  {
+    "number": 68,
+    "before": "eachother",
+    "after": "each other",
+    "occurrences": 1
+  },
+  {
+    "number": 159,
+    "before": "halfalive",
+    "after": "half-alive",
+    "occurrences": 1
+  },
+  {
+    "number": 282,
+    "before": "OccultBodyguards",
+    "after": "Occult Bodyguards",
+    "occurrences": 1
+  },
+  {
+    "number": 463,
+    "before": "offbalance",
+    "after": "off balance",
+    "occurrences": 1
+  },
+  {
+    "number": 545,
+    "before": "HomeWorld",
+    "after": "Home World",
+    "occurrences": 1
+  },
+  {
+    "number": 561,
+    "before": "longlost",
+    "after": "long-lost",
+    "occurrences": 1
+  },
+  {
+    "number": 576,
+    "before": "headstart",
+    "after": "head start",
+    "occurrences": 1
+  },
+  {
+    "number": 579,
+    "before": "plantlife",
+    "after": "plant life",
+    "occurrences": 1
+  },
+  {
+    "number": 639,
+    "before": "shipsUnrelenting",
+    "after": "ships Unrelenting",
+    "occurrences": 1
+  },
+  {
+    "number": 770,
+    "before": "safehaven",
+    "after": "safe haven",
+    "occurrences": 1
+  },
+  {
+    "number": 834,
+    "before": "soonafter",
+    "after": "soon after",
+    "occurrences": 1
+  },
+  {
+    "number": 864,
+    "before": "HeliosHellgraceHephaesto",
+    "after": "Helios Hellgrace Hephaesto",
+    "occurrences": 1
+  },
+  {
+    "number": 864,
+    "before": "LliaxLucius",
+    "after": "Lliax Lucius",
+    "occurrences": 1
+  },
+  {
+    "number": 932,
+    "before": "foodsource",
+    "after": "food source",
+    "occurrences": 1
+  },
+  {
+    "number": 1252,
+    "before": "patternstorm",
+    "after": "pattern storm",
+    "occurrences": 1
+  },
+  {
+    "number": 1433,
+    "before": "roadN/A",
+    "after": "road N/A",
+    "occurrences": 3
+  },
+  {
+    "number": 1488,
+    "before": "MarkIV-b",
+    "after": "Mark IV-b",
+    "occurrences": 2
+  },
+  {
+    "number": 1498,
+    "before": "MantletN/A",
+    "after": "Mantlet N/A",
+    "occurrences": 1
+  }
+]

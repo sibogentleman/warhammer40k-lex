@@ -1,0 +1,10 @@
+{
+  "output": "/Users/bytedance/Documents/ChatGPT/战锤 40k/战锤40K_LEX设定汇编_插画封面版.epub",
+  "cover": "/Users/bytedance/Documents/ChatGPT/战锤 40k/战锤40K_设定汇编_封面.png",
+  "mode": "built-in image_gen",
+  "prompt": "/Users/bytedance/Documents/ChatGPT/战锤 40k/epub制作/封面生成提示词.txt",
+  "unchanged_package_files": 5523,
+  "all_original_article_text_and_images_preserved": true,
+  "bytes": 221038264,
+  "sha256": "5b59f72e2cafad81c775e666f19878fb69451c92874c135e5e174b36b464e228"
+}

@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.epub
+*.zip
+epub制作/package/
+epub制作/assets/
+epub制作/reports/**/preview/
+epub制作/reports/**/*.png
+epub制作/reports/**/*.jpg

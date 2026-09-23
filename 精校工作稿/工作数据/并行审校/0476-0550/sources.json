@@ -1,0 +1,21 @@
+[
+  {
+    "id": "GW-LOCAL-494",
+    "title": "Just What Is a Lord Solar Anyway – A Guardsman’s Primer to the Hierarchy of the Astra Militarum",
+    "url": "https://www.warhammer-community.com/en-gb/articles/7npi0Tl9/just-what-is-a-lord-solar-anyway-a-guardsmans-primer-to-the-hierarchy-of-the-astra-militarum/",
+    "published": "2022-12-16",
+    "checked": "2026-09-21",
+    "finding": "Lord Commander Solar 与 Warmaster 分别为太阳星域指挥与跨地区远征职衔。",
+    "loc": "494末段"
+  },
+  {
+    "url": "https://mfm.warhammer-community.com/en/world-eaters",
+    "title": "Warhammer 40,000: Munitorum Field Manual — World Eaters",
+    "used_for": [
+      "Goremongers",
+      "Slaughterbound"
+    ],
+    "access": "官方检索结果含完整单位清单；直开403。未确认官方中文网页对应，仅配本地GW09中文参考。",
+    "checked": "2026-09-22"
+  }
+]

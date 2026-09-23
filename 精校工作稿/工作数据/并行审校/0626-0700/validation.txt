@@ -1,0 +1,11 @@
+{
+  "range": "0626-0700",
+  "reviewed": 75,
+  "edits": 1405,
+  "notes": 503,
+  "titles": 15,
+  "additions": 1,
+  "terms": 671,
+  "errors": []
+}
+通过：范围、逐篇完成清单、数据类型、英文标题及混合英文长句保留、词表六列及同键冲突、Unicode。
