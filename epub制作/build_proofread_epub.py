@@ -1,7 +1,12 @@
 from pathlib import Path
 from lxml import etree
-import zipfile,json,re,csv,hashlib,uuid,datetime,collections,posixpath
-R=Path(__file__).resolve().parent.parent;W=R/'精校工作稿';D=W/'工作数据';OUT=R/'战锤40K_LEX设定汇编_全书精校版.epub';SRC=R/'战锤40K_LEX设定汇编_插画封面二次校订版.epub'
+import zipfile,json,re,csv,hashlib,uuid,datetime,collections,posixpath,argparse
+R=Path(__file__).resolve().parent.parent;W=R/'精校工作稿';D=W/'工作数据';OUT=R/'战锤40K_LEX设定汇编_全书精校版.epub'
+parser=argparse.ArgumentParser(description='从当前精校 Markdown 重建 EPUB')
+parser.add_argument('--base',type=Path,default=R/'spacing-pass1.epub')
+parser.add_argument('--output',type=Path,default=OUT)
+parser.add_argument('--report-dir',type=Path,default=R/'epub制作/reports/全书精校版')
+args=parser.parse_args();SRC=args.base;OUT=args.output
 H='http://www.w3.org/1999/xhtml';EP='http://www.idpf.org/2007/ops';NS={'h':H,'o':'http://www.idpf.org/2007/opf','dc':'http://purl.org/dc/elements/1.1/'}
 def tag(e):return etree.QName(e).localname
 def clean(t):return re.sub(r'\s+',' ',t).strip()
@@ -49,7 +54,10 @@ with zipfile.ZipFile(SRC) as z:
    else:
     assert '**校订译文**' in chunk,bid;text=unesc(chunk.split('**校订译文**',1)[1].strip())
    expected[bid]=text
-   if text!=b['text']:
+   original=etree.fromstring(etree.tostring(e,with_tail=False))
+   for child in list(original):
+    if tag(child) in ['ul','ol']:original.remove(child)
+   if text!=b['text'] or clean(''.join(original.itertext()))!=clean(text):
     changed+=1;nested=[c for c in e if tag(c) in ['ul','ol']]
     for c in list(e):e.remove(c)
     e.text=text
@@ -108,4 +116,4 @@ with zipfile.ZipFile(OUT) as z,zipfile.ZipFile(SRC) as old:
   if name.startswith('EPUB/images/'):assert z.read(name)==old.read(name),name
  assert z.testzip() is None
 report={'epub':str(OUT),'articles':len(C),'verified_text_blocks':count,'revised_blocks':changed,'added_translations':add_count,'editor_notes':notes_count,'bytes':OUT.stat().st_size,'sha256':hashlib.sha256(OUT.read_bytes()).hexdigest(),'markdown_sha256':source_hashes}
-P=R/'epub制作/reports/全书精校版';P.mkdir(exist_ok=True);(P/'制作与逐段核验.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps({k:v for k,v in report.items() if k!='markdown_sha256'},ensure_ascii=False))
+P=args.report_dir;P.mkdir(parents=True,exist_ok=True);(P/'制作与逐段核验.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps({k:v for k,v in report.items() if k!='markdown_sha256'},ensure_ascii=False))

@@ -11,7 +11,7 @@
 - [逐段修订记录](精校工作稿/逐段修订记录.csv)
 - [EPUB 与完整编辑稿下载](https://github.com/sibogentleman/warhammer40k-lex/releases)
 
-Release 提供全书精校版 EPUB、Markdown/CSV/图片完整压缩包，以及重新构建所用的插画封面底本 EPUB。大文件不存入 Git 历史，旧批次压缩包保留在本地。
+Release 提供全书精校版 EPUB、Markdown/CSV/图片完整压缩包，以及重新构建所用的插画封面底本 EPUB（`spacing-pass1.epub`）。大文件不存入 Git 历史，旧批次压缩包保留在本地。
 
 ## 目录结构
 
@@ -32,7 +32,7 @@ Release 提供全书精校版 EPUB、Markdown/CSV/图片完整压缩包，以及
 python3 -m pip install -r requirements.txt
 ```
 
-从 Release 下载 `战锤40K_LEX设定汇编_插画封面二次校订版.epub`，放到仓库根目录，然后运行：
+从 Release 下载 `spacing-pass1.epub`，放到仓库根目录，然后运行：
 
 ```sh
 python3 epub制作/build_proofread_epub.py
